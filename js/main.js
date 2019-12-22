@@ -164,3 +164,30 @@ var preventSubmit = function(event) {
 $("#search_bar").keypress(preventSubmit);
 $("#search_bar").keydown(preventSubmit);
 $("#search_bar").keyup(preventSubmit);
+
+
+// vamos verificar a dropdown list de opções?
+
+var opcoes = {
+    "nomeAula" : false,
+    "nomeSala" : false,
+    "nomeArea" : false,
+};
+
+function verificarDropdown(data){
+    //console.log(data);
+    console.log("verificarDropdown(): hmm...");
+
+}
+
+// vamos instanciar o Tempus Dominus para disparar sempre que clicar na parte da escolha de data
+function setarDataBusca(data){
+    console.log(data);
+    //$('#calendario').datetimepicker();
+
+}
+
+$(function(){
+    $('#datetimepicker1').datetimepicker();
+
+});

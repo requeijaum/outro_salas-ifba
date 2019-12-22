@@ -41,8 +41,10 @@ html {
     margin-bottom: 96px;
   }
 
-  #the_list div {
-    margin: auto;
+  #the_list {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
   }
 
   #the_list ul.lista_aulas {
@@ -64,4 +66,21 @@ html {
   #search_bar {
     margin: auto;
     font-size: 75%;
+  }
+
+  #calendario div {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  @media screen and (min-width: 600px ) {
+    
+    .content {
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+
+    }
+
+
   }

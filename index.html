@@ -8,13 +8,17 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/fontawesome.min.css">
     <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/tempusdominus-bootstrap-4.min.css">
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
     <script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/fontawesome.min.js"></script>
+    <script src="js/moment.min.js"></script>
+    <script src="js/locales.min.js"></script>
     <script src="js/all.min.js"></script>
+    <script src="js/tempusdominus-bootstrap-4.min.js"></script>
     <script src="js/main.js"></script>
     
     <div class="site-wrapper">
@@ -29,15 +33,27 @@
                 <h5 class="text-center" style="color: lightred;" ><i>Não-oficial e melhorado</i></h5>    
             </header>
             
-            <main class="content col-xs-12 col-sm-12 col-md-12 col-lg-12">
-
+            <main class="content container col-*-12">
+            
+                <div id="calendario" class="row">
+                    <div class="col-*-12">
+                        <div class="form-group">
+                            <div class="input-group date" id="datetimepicker1" data-target-input="nearest">
+                                <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker1"/>
+                                <div class="input-group-append" data-target="#datetimepicker1" data-toggle="datetimepicker">
+                                <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
                 <!-- Search forma - not form, because I don't want to submit !!! -->
                 <div id="search_row" class="row">
 
                     <form id="search_bar" class="form-inline">
-                        <i class="fa fa-search" aria-hidden="true"></i>
-                        <input class="form-control form-control-sm w-50" type="text" placeholder="Search"
-                        aria-label="Search">
+                        <i style="margin-right: 8px; " class="fa fa-search" aria-hidden="true"></i>
+                        <input class="form-control form-control-sm w-50" type="text" placeholder="Buscar..."
+                        aria-label="Buscar">
 
                         <div class="col w-50">
                             <!--
@@ -58,7 +74,7 @@
                                     <a onclick="escolheModoBusca(this)" name="nomeArea" class="dropdown-item disabled" href="#">Nome do Pavilhão/Prédio</a>
                                     <br>
                                     <div class="dropdown-header"><b>Escolher data:</b></div>
-                                    <a onclick="setarDataBusca(this)" class="dropdown-item disabled" href="#">Abrir Calendário</a>
+                                    <a onclick="setarDataBusca(this)" id="setarDataBusca" class="dropdown-item disabled" href="#">Abrir Calendário</a>
                                     
                                 </div>
                             </div> 
@@ -68,15 +84,17 @@
     
                 </div>
 
-                <ul id="the_list" class="list-group">
-                    <!--
-                        <li class="list-group-item">Cras justo odio</li>
-                        <li class="list-group-item">Dapibus ac facilisis in</li>
-                        <li class="list-group-item">Morbi leo risus</li>
-                        <li class="list-group-item">Porta ac consectetur ac</li>
-                        <li class="list-group-item">Vestibulum at eros</li>
-                    -->
-                </ul>
+                <div id="lista" class="col-*-12">
+                    <ul id="the_list" class="list-group">
+                        <!--
+                            <li class="list-group-item">Cras justo odio</li>
+                            <li class="list-group-item">Dapibus ac facilisis in</li>
+                            <li class="list-group-item">Morbi leo risus</li>
+                            <li class="list-group-item">Porta ac consectetur ac</li>
+                            <li class="list-group-item">Vestibulum at eros</li>
+                        -->
+                    </ul>    
+                </div>
                 
             </main>
 
