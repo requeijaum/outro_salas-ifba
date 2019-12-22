@@ -41,19 +41,51 @@ function constructList(nomeAula, nomeSala, nomeArea, dados){
     // construir a porra toda pq sim... sem filtrar
 
     if ((nomeAula == "") && (nomeSala == "") && (nomeArea == "")) {
-        
+
+        num_salas = Object.keys(dados.dados).length - 1 ;
+        console.log('constructList(): mostrando todas as ' + num_salas + ' salas!'); 
+        //  ^^^ removi a chave "id"
+
         for (sala in dados.dados) { // in ou of ?
             // precisa ser numérico !!!
             if (isFinite(sala)) {
                 obj = dados.dados[sala]
-                console.log("constructList(): iterando sala #" + sala + "...")
-                console.log(obj);
-                htmlToAppend = '<li id="sala' + sala + '" class="list-group-item">' + obj["nomeSala"] + '<br> <small>' + obj["nomeArea"] + '</small></li>';
+                // console.log("constructList(): iterando sala #" + sala + "...")
+                // console.log(obj);
+                
+                htmlToAppend = '<li id="sala' + sala + 
+                '" class="list-group-item"> <div class="row"><div class="sala_info col-*-6"> ' 
+                + obj["nomeSala"] + '<br> <small>' + obj["nomeArea"] + '</small>\
+                </div>\
+                <div class="sala_info_extra col-*-6">\
+                <ul class="lista_aulas"></ul>\
+                </div></div>\
+                </li>';
+                
                 $("#the_list").append(htmlToAppend);
+                
+                // esconder sala caso não tenha horarios?
+                if (Object.keys(obj.horarios).length == 0){
+                    console.log("A sala atual não tem horários...");
+                    $("#sala"+sala).css("display","none");
+                
+                }
+
+                // $("#sala"+sala+" .lista_aulas").append("<li>Teste 123</li>");
+                for (horario in obj.horarios) {
+                    $("#sala"+sala+" .lista_aulas").append("<li><b>" + horario + "</b> - " 
+                    + obj.horarios[horario] + "</li>");
+
+                }
+
             }
         }
     } 
 
+}
+
+function dispararBusca(){
+    console.log("busca disparada!");
 }
 
 function Headers(list, selector) {
@@ -116,3 +148,19 @@ $(document).ready(function () {
 
 
 });
+
+
+// funções auxiliares...
+
+// prevenir que Enter ou qualquer outra coisa atualize a página
+var preventSubmit = function(event) {
+    if(event.keyCode == 13) {
+        console.log("caught ya!");
+        event.preventDefault();
+        //event.stopPropagation();
+        return false;
+    }
+}
+$("#search_bar").keypress(preventSubmit);
+$("#search_bar").keydown(preventSubmit);
+$("#search_bar").keyup(preventSubmit);

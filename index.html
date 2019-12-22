@@ -6,11 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/fontawesome.min.css">
+    <link rel="stylesheet" href="css/all.min.css">
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
     <script src="js/jquery-3.4.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/fontawesome.min.js"></script>
+    <script src="js/all.min.js"></script>
     <script src="js/main.js"></script>
     
     <div class="site-wrapper">
@@ -27,6 +31,43 @@
             
             <main class="content col-xs-12 col-sm-12 col-md-12 col-lg-12">
 
+                <!-- Search forma - not form, because I don't want to submit !!! -->
+                <div id="search_row" class="row">
+
+                    <form id="search_bar" class="form-inline">
+                        <i class="fa fa-search" aria-hidden="true"></i>
+                        <input class="form-control form-control-sm w-50" type="text" placeholder="Search"
+                        aria-label="Search">
+
+                        <div class="col w-50">
+                            <!--
+                                <input style="margin-left: auto;" type="radio" class="" name="searchType" id="nomeAula">Nome da Disciplina/Professor</input>
+                                <br>
+                                <input style="margin-left: auto;" type="radio" class="" name="searchType" id="nomeSala">Nome da Sala</input>
+                                <br>
+                                <input style="margin-left: auto;" type="radio" class="" name="searchType" id="nomeArea">Nome do Pavilhão/Prédio</input>
+                            -->
+                            <div class="dropdown">
+                                <button onclick="verificarDropdown(this)" type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+                                    Opções
+                                </button>
+                                <div class="dropdown-menu">
+                                    <div class="dropdown-header"><b>Buscar por:</b></div> 
+                                    <a onclick="escolheModoBusca(this)" name="nomeAula" class="dropdown-item disabled" href="#">Nome da Disciplina/Professor/Turma</a>
+                                    <a onclick="escolheModoBusca(this)" name="nomeSala" class="dropdown-item disabled" href="#">Nome da Sala</a>
+                                    <a onclick="escolheModoBusca(this)" name="nomeArea" class="dropdown-item disabled" href="#">Nome do Pavilhão/Prédio</a>
+                                    <br>
+                                    <div class="dropdown-header"><b>Escolher data:</b></div>
+                                    <a onclick="setarDataBusca(this)" class="dropdown-item disabled" href="#">Abrir Calendário</a>
+                                    
+                                </div>
+                            </div> 
+                        </div>
+
+                    </form>
+    
+                </div>
+
                 <ul id="the_list" class="list-group">
                     <!--
                         <li class="list-group-item">Cras justo odio</li>
@@ -39,10 +80,12 @@
                 
             </main>
 
-            <footer class="footer text-muted">
-                <p><small>
-                    &copy; Criado por <a href="https://github.com/requeijaum">Rafael Requião</a>, 2019.
-                </small></p>
+            <footer class="footer text-muted row">
+                <div class="col-*-12">
+                    <p><small>
+                        &copy; Criado por <a href="https://github.com/requeijaum">Rafael Requião</a>, 2019.
+                    </small></p>    
+                </div>
             </footer>
 
         </div>
