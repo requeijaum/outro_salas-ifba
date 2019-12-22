@@ -59,6 +59,14 @@ html {
     word-wrap: break-all;
   }
 
+  .sala_info {
+    margin-left: 8px;
+  }
+
+  .sala_info_extra {
+    margin-right: 8px;
+  }
+
   #search_row {
     margin: auto;
   }
@@ -71,6 +79,13 @@ html {
   #calendario div {
     margin-left: auto;
     margin-right: auto;
+  }
+  
+  #qual_o_dia {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 16px;
   }
 
   @media screen and (min-width: 600px ) {

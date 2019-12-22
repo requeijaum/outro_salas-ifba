@@ -54,10 +54,10 @@ function constructList(nomeAula, nomeSala, nomeArea, dados){
                 // console.log(obj);
                 
                 htmlToAppend = '<li id="sala' + sala + 
-                '" class="list-group-item"> <div class="row"><div class="sala_info col-*-6"> ' 
+                '" class="list-group-item"> <div class="row"><div class="sala_info col-*-6 push-left"> ' 
                 + obj["nomeSala"] + '<br> <small>' + obj["nomeArea"] + '</small>\
                 </div>\
-                <div class="sala_info_extra col-*-6">\
+                <div class="sala_info_extra col-*-6 push-right">\
                 <ul class="lista_aulas"></ul>\
                 </div></div>\
                 </li>';
@@ -66,7 +66,7 @@ function constructList(nomeAula, nomeSala, nomeArea, dados){
                 
                 // esconder sala caso não tenha horarios?
                 if (Object.keys(obj.horarios).length == 0){
-                    console.log("A sala atual não tem horários...");
+                    console.log("A sala #" + sala + " - " + obj["nomeSala"] + " - não tem horários...");
                     $("#sala"+sala).css("display","none");
                 
                 }
@@ -122,8 +122,8 @@ $(document).ready(function () {
     console.log(date);
 
     hoje = ""; hoje = hoje.concat(ano).concat(mes).concat(dia);
-    //dataEspecificada = hoje;  // por enquanto...
-    dataEspecificada = "20191219"; // debug...
+    dataEspecificada = hoje;  // por enquanto...
+    //dataEspecificada = "20191219"; // debug...
 
     var alertErro                   = '<div id="error" class="alert alert-danger" role="alert">' + '</div>';  // usar innerHTML pra setar algo no div :^)
     var msgErro_Requisicao          = "Falha ao obter dados de horários!!!";
@@ -131,7 +131,7 @@ $(document).ready(function () {
     var capturedData = null;
 
     // terei que repetir isso a cada especificacao de data... 
-    
+
     $.getJSON("dados/capturas/" + dataEspecificada + ".json", function (json) {
         //console.log(json);
         capturedData = json;
@@ -140,8 +140,10 @@ $(document).ready(function () {
         console.log(msgErro_Requisicao) ; $('main').append(insereMsgAlerta(alertErro, msgErro_Requisicao)) 
     })
     .done(function(){
-        console.log(capturedData); // constructTable('#table', capturedData) ;
-        constructList("", "", "", capturedData)  // constructList(nomeAula, nomeSala, nomeArea, dados) --> 'nomeProfessor' incluso em nomeAula
+        console.log(capturedData);                          // constructTable('#table', capturedData) ;
+        constructList("", "", "", capturedData)             // constructList(nomeAula, nomeSala, nomeArea, dados) --> 'nomeProfessor' incluso em nomeAula
+        $('#dia_a_mostrar').html(dia+"/"+mes+"/"+ano);      // avisar na tela qual o dia que estamos vendo...
+        
     });
         
 

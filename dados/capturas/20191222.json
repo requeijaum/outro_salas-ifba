@@ -17,6 +17,1118 @@
         "11",
         "10"
     ],
+    "data": "20191222",
+    "dados": {
+        "id": 1,
+        "1": {
+            "nomeArea": "Bloco A (Prédio Adm.)",
+            "nomeSala": "A-207 LAPEG (10)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "2": {
+            "nomeArea": "Bloco A (Prédio Adm.)",
+            "nomeSala": "A-211",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "3": {
+            "nomeArea": "Bloco A (Prédio Adm.)",
+            "nomeSala": "A-308 (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "4": {
+            "nomeArea": "Bloco A (Prédio Adm.)",
+            "nomeSala": "Sala Reuniões DG",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "5": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-003 LEMAT (10)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "6": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "Lab de Cartografia (35)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "7": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "Lab de Geografia Fisica (35)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "8": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "Lab de Geotecnologia (12)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "9": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-105 (Idiomas) (20)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "10": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-106(S 01) (35)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "11": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-107(S 02) (35)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "12": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-108(S 03) (35)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "13": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-109(S 04) (35)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "14": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-110(S 05) (50)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "15": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-205(S 06) (45)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "16": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-206(S 07) (30)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "17": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-207(S 08) (35)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "18": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-208(S 09) (50)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "19": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-209(S 10) (50)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "20": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-007 Lab Topografia",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "21": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-008 Lab Solos",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "22": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-010 Lab Ensaios",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "23": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-101  Audio I (60)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "24": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-102(S 01) (35)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "25": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-105(S 02) (35)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "26": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-106(S 03) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "27": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-107(S 04) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "28": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-108(S 05) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "29": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-109(S 06) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "30": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-110(S 07) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "31": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-111(S 08) (35)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "32": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-112(S 09) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "33": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-201(S 10) (60)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "34": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-202(S 11) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "35": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-205 (Desenho) (25)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "36": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-206 (Desenho) (25)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "37": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-207 (Desenho) (25)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "38": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-208 (Desenho) (24)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "39": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-209 (Desenho) (30)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "40": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-210 (LAB Anat. e Biol.)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "41": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-005 Lab Man. Elétrica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "42": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-006 Lab Inst Elétricas",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "43": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-007 Lab Com. Elétricos",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "44": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-008 Lab Máq. Elétricas",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "45": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-009 Lab Tec. Elétrica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "46": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-010 Lab Med. Elétricas",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "47": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-011 Lab de Automação",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "48": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-103 - Áudio-Geografia (35)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "49": {
+            "nomeArea": "Bloco F (Física)",
+            "nomeSala": "F-005 (45)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "50": {
+            "nomeArea": "Bloco F (Física)",
+            "nomeSala": "F-006 (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "51": {
+            "nomeArea": "Bloco F (Física)",
+            "nomeSala": "F-007 (Áudio) (48)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "52": {
+            "nomeArea": "Bloco G (Canteiro de Obras)",
+            "nomeSala": "G-001 Lab Hidráulica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "53": {
+            "nomeArea": "Bloco G (Canteiro de Obras)",
+            "nomeSala": "G-002 Lab Informática",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "54": {
+            "nomeArea": "Bloco G (Canteiro de Obras)",
+            "nomeSala": "G-003 Sl Desenho",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "55": {
+            "nomeArea": "Bloco G (Canteiro de Obras)",
+            "nomeSala": "G-004 Lab de Águas",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "56": {
+            "nomeArea": "Bloco G (Canteiro de Obras)",
+            "nomeSala": "PISA",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "57": {
+            "nomeArea": "Bloco G (Canteiro de Obras)",
+            "nomeSala": "G-005 Lab Elétrica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "58": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Automação Hidráulica (15)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "59": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Lab. Informática (20)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "60": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Lab. Refrigeração (25)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "61": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Metalografia (25)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "62": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Oficina de Refrigeração",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "63": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Oficina de Soldagem",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "64": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Órtese/Prótese (35)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "65": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Sala 5 - DATM (20)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "66": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Automação Pneumática (15)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "67": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Sala de CNC (10)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "68": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Sala de Fabricação",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "69": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Sala de Fresagem/Torneari (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "70": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Lab. de Metrologia (20)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "71": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Sala de Refrigeração (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "72": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Sala de Tecnologia Mecân (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "73": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-106 (30)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "74": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-107 (11)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "75": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-110 (20)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "76": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-111 (20)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "77": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-112 (20)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "78": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-114 (10)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "79": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-115 (20)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "80": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-116 (10)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "81": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L-001 LAB ENG. QUÍMICA (10)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "82": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L-002 CENT IDIOMAS (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "83": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L-003 (Áudio 03) (45)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "84": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L-004 LEUS/GPEND (10)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "85": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L-010 LAB ENG. QUÍMICA (20)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "86": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L101 (45)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "87": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L102 (50)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "88": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L103 (50)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "89": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L104 (Lab Inf 5) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "90": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L105 (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "91": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L106 (30)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "92": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-001 - Lab. de NTS (20)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "93": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-102  (18)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "94": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-104 (8)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "95": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-113(S 01) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "96": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-114(S 02) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "97": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-115(S 03) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "98": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-116(S 04) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "99": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-117(S 05) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "100": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-118 LAMMC",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "101": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-119",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "102": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-120 ITCP (30)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "103": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-203(S 06) (50)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "104": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-204(S 07) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "105": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-205(S 08) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "106": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-206(S 09) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "107": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-207(S 10) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "108": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-208(S 11) (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "109": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-209(S 12) (60)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "110": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "PS-09 Artes (30)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "111": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Sala de Artes Visuais",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "112": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Sala de Artes Visuais.2",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "113": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Sala de Artes Visuais.3",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "114": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Sala de Dança",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "115": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Sala de Música",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "116": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Sala de Teatro",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "117": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "P-018 (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "118": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab de Geotec",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "119": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "P001 - LabInfo EngQui",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "120": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. informática EE (20)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "121": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 01 Eletrônica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "122": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 02 Eletrônica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "123": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 03 Eletrônica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "124": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 04 Eletrônica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "125": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 05 Eletrônica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "126": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 06",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "127": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 07 Eletrônica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "128": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 08 Eletrônica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "129": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 09 Eletrônica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "130": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 10 Eletrônica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "131": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 12",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "132": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "P-102 Lab de Autocad",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "133": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "P-103 (Coordenação) (30)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "134": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "DSPLAB",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "135": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab Turismo (P-104)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "136": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. de Geoproc",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "137": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. de Mineralogia",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "138": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. de Petrog",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "139": {
+            "nomeArea": "Labs Automação",
+            "nomeSala": "Lab de Automação",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "140": {
+            "nomeArea": "Labs Automação",
+            "nomeSala": "Lab de Controle I",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "141": {
+            "nomeArea": "Labs Automação",
+            "nomeSala": "Lab de Controle II",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "142": {
+            "nomeArea": "Labs Automação",
+            "nomeSala": "Lab de EFC",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "143": {
+            "nomeArea": "Labs Automação",
+            "nomeSala": "Lab de Equipamentos",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "144": {
+            "nomeArea": "Labs Automação",
+            "nomeSala": "Lab de MVI",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "145": {
+            "nomeArea": "Labs Automação",
+            "nomeSala": "Lab Pró-funcionário",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "146": {
+            "nomeArea": "Labs Informática (1 - 4)",
+            "nomeSala": "Lab. 1 (20)",
+            "horarios": {
+                "13:40": "ESTUDOS ADS"
+            },
+            "total_alocacoes": 1,
+            "total_salas": 4
+        },
+        "147": {
+            "nomeArea": "Labs Informática (1 - 4)",
+            "nomeSala": "Lab. 2 (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "148": {
+            "nomeArea": "Labs Informática (1 - 4)",
+            "nomeSala": "Lab. 3 (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "149": {
+            "nomeArea": "Labs Informática (1 - 4)",
+            "nomeSala": "Lab. 4 (40)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "150": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 04",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "151": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 05",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "152": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 06",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "153": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 07",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "154": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 08",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "155": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 09",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "156": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 10",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "157": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 11",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "158": {
+            "nomeArea": "LAFIR",
+            "nomeSala": "LAB. 1",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        }
+    },
     "areas_nomes": [
         "",
         "Bloco A (Prédio Adm.)",
@@ -34,1117 +1146,5 @@
         "Labs Informática (1 - 4)",
         "Labs Química",
         "LAFIR"
-    ],
-    "dados": {
-        "1000": {
-            "horarios": {},
-            "nomeArea": "Bloco G (Canteiro de Obras)",
-            "nomeSala": "G-001 Lab Hidráulica",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1001": {
-            "horarios": {},
-            "nomeArea": "Bloco G (Canteiro de Obras)",
-            "nomeSala": "G-002 Lab Informática",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1002": {
-            "horarios": {},
-            "nomeArea": "Bloco G (Canteiro de Obras)",
-            "nomeSala": "G-003 Sl Desenho",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1003": {
-            "horarios": {},
-            "nomeArea": "Bloco G (Canteiro de Obras)",
-            "nomeSala": "G-004 Lab de Águas",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1004": {
-            "horarios": {},
-            "nomeArea": "Bloco G (Canteiro de Obras)",
-            "nomeSala": "PISA",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1005": {
-            "horarios": {},
-            "nomeArea": "Bloco G (Canteiro de Obras)",
-            "nomeSala": "G-005 Lab Elétrica",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1006": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Automação Hidráulica (15)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1007": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Lab. Informática (20)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1008": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Lab. Refrigeração (25)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1009": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Metalografia (25)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1010": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Oficina de Refrigeração",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1011": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Oficina de Soldagem",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1012": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Órtese/Prótese (35)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1013": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Sala 5 - DATM (20)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1014": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Automação Pneumática (15)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1015": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Sala de CNC (10)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1016": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Sala de Fabricação",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1017": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Sala de Fresagem/Torneari (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1018": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Lab. de Metrologia (20)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1019": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Sala de Refrigeração (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1020": {
-            "horarios": {},
-            "nomeArea": "Bloco H (Mecânica)",
-            "nomeSala": "Sala de Tecnologia Mecân (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1021": {
-            "horarios": {},
-            "nomeArea": "Bloco K (Biblioteca)",
-            "nomeSala": "K-106 (30)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1022": {
-            "horarios": {},
-            "nomeArea": "Bloco K (Biblioteca)",
-            "nomeSala": "K-107 (11)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1023": {
-            "horarios": {},
-            "nomeArea": "Bloco K (Biblioteca)",
-            "nomeSala": "K-110 (20)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1024": {
-            "horarios": {},
-            "nomeArea": "Bloco K (Biblioteca)",
-            "nomeSala": "K-111 (20)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1025": {
-            "horarios": {},
-            "nomeArea": "Bloco K (Biblioteca)",
-            "nomeSala": "K-112 (20)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1026": {
-            "horarios": {},
-            "nomeArea": "Bloco K (Biblioteca)",
-            "nomeSala": "K-114 (10)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1027": {
-            "horarios": {},
-            "nomeArea": "Bloco K (Biblioteca)",
-            "nomeSala": "K-115 (20)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1028": {
-            "horarios": {},
-            "nomeArea": "Bloco K (Biblioteca)",
-            "nomeSala": "K-116 (10)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1029": {
-            "horarios": {},
-            "nomeArea": "Bloco L (Metalurgia)",
-            "nomeSala": "L-001 LAB ENG. QUÍMICA (10)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1030": {
-            "horarios": {},
-            "nomeArea": "Bloco L (Metalurgia)",
-            "nomeSala": "L-002 CENT IDIOMAS (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1031": {
-            "horarios": {},
-            "nomeArea": "Bloco L (Metalurgia)",
-            "nomeSala": "L-003 (Áudio 03) (45)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1032": {
-            "horarios": {},
-            "nomeArea": "Bloco L (Metalurgia)",
-            "nomeSala": "L-004 LEUS/GPEND (10)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1033": {
-            "horarios": {},
-            "nomeArea": "Bloco L (Metalurgia)",
-            "nomeSala": "L-010 LAB ENG. QUÍMICA (20)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1034": {
-            "horarios": {},
-            "nomeArea": "Bloco L (Metalurgia)",
-            "nomeSala": "L101 (45)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1035": {
-            "horarios": {},
-            "nomeArea": "Bloco L (Metalurgia)",
-            "nomeSala": "L102 (50)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1036": {
-            "horarios": {},
-            "nomeArea": "Bloco L (Metalurgia)",
-            "nomeSala": "L103 (50)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1037": {
-            "horarios": {},
-            "nomeArea": "Bloco L (Metalurgia)",
-            "nomeSala": "L104 (Lab Inf 5) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1038": {
-            "horarios": {},
-            "nomeArea": "Bloco L (Metalurgia)",
-            "nomeSala": "L105 (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1039": {
-            "horarios": {},
-            "nomeArea": "Bloco L (Metalurgia)",
-            "nomeSala": "L106 (30)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1040": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-001 - Lab. de NTS (20)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1041": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-102  (18)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1042": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-104 (8)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1043": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-113(S 01) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1044": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-114(S 02) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1045": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-115(S 03) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1046": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-116(S 04) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1047": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-117(S 05) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1048": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-118 LAMMC",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1049": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-119",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1050": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-120 ITCP (30)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1051": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-203(S 06) (50)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1052": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-204(S 07) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1053": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-205(S 08) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1054": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-206(S 09) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1055": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-207(S 10) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1056": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-208(S 11) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1057": {
-            "horarios": {},
-            "nomeArea": "Bloco O (Antigo Pav 7)",
-            "nomeSala": "O-209(S 12) (60)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1058": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "PS-09 Artes (30)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1059": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Sala de Artes Visuais",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1060": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Sala de Artes Visuais.2",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1061": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Sala de Artes Visuais.3",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1062": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Sala de Dança",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1063": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Sala de Música",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1064": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Sala de Teatro",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1065": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "P-018 (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1066": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab de Geotec",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1067": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "P001 - LabInfo EngQui",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1068": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. informática EE (20)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1069": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. 01 Eletrônica",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1070": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. 02 Eletrônica",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1071": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. 03 Eletrônica",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1072": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. 04 Eletrônica",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1073": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. 05 Eletrônica",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1074": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. 06",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1075": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. 07 Eletrônica",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1076": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. 08 Eletrônica",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1077": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. 09 Eletrônica",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1078": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. 10 Eletrônica",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1079": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. 12",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1080": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "P-102 Lab de Autocad",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1081": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "P-103 (Coordenação) (30)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1082": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "DSPLAB",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1083": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab Turismo (P-104)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1084": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. de Geoproc",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1085": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. de Mineralogia",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1086": {
-            "horarios": {},
-            "nomeArea": "Bloco P  (Antigo Pav 8)",
-            "nomeSala": "Lab. de Petrog",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1087": {
-            "horarios": {},
-            "nomeArea": "Labs Automação",
-            "nomeSala": "Lab de Automação",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1088": {
-            "horarios": {},
-            "nomeArea": "Labs Automação",
-            "nomeSala": "Lab de Controle I",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1089": {
-            "horarios": {},
-            "nomeArea": "Labs Automação",
-            "nomeSala": "Lab de Controle II",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1090": {
-            "horarios": {},
-            "nomeArea": "Labs Automação",
-            "nomeSala": "Lab de EFC",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1091": {
-            "horarios": {},
-            "nomeArea": "Labs Automação",
-            "nomeSala": "Lab de Equipamentos",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1092": {
-            "horarios": {},
-            "nomeArea": "Labs Automação",
-            "nomeSala": "Lab de MVI",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1093": {
-            "horarios": {},
-            "nomeArea": "Labs Automação",
-            "nomeSala": "Lab Pró-funcionário",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1094": {
-            "horarios": {
-                "13:40": "ESTUDOS ADS"
-            },
-            "nomeArea": "Labs Informática (1 - 4)",
-            "nomeSala": "Lab. 1 (20)",
-            "total_alocacoes": 1,
-            "total_salas": 4
-        },
-        "1095": {
-            "horarios": {},
-            "nomeArea": "Labs Informática (1 - 4)",
-            "nomeSala": "Lab. 2 (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1096": {
-            "horarios": {},
-            "nomeArea": "Labs Informática (1 - 4)",
-            "nomeSala": "Lab. 3 (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1097": {
-            "horarios": {},
-            "nomeArea": "Labs Informática (1 - 4)",
-            "nomeSala": "Lab. 4 (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1098": {
-            "horarios": {},
-            "nomeArea": "Labs Química",
-            "nomeSala": "LAB 04",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1099": {
-            "horarios": {},
-            "nomeArea": "Labs Química",
-            "nomeSala": "LAB 05",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1100": {
-            "horarios": {},
-            "nomeArea": "Labs Química",
-            "nomeSala": "LAB 06",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1101": {
-            "horarios": {},
-            "nomeArea": "Labs Química",
-            "nomeSala": "LAB 07",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1102": {
-            "horarios": {},
-            "nomeArea": "Labs Química",
-            "nomeSala": "LAB 08",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1103": {
-            "horarios": {},
-            "nomeArea": "Labs Química",
-            "nomeSala": "LAB 09",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1104": {
-            "horarios": {},
-            "nomeArea": "Labs Química",
-            "nomeSala": "LAB 10",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1105": {
-            "horarios": {},
-            "nomeArea": "Labs Química",
-            "nomeSala": "LAB 11",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "1106": {
-            "horarios": {},
-            "nomeArea": "LAFIR",
-            "nomeSala": "LAB. 1",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "949": {
-            "horarios": {},
-            "nomeArea": "Bloco A (Prédio Adm.)",
-            "nomeSala": "A-207 LAPEG (10)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "950": {
-            "horarios": {},
-            "nomeArea": "Bloco A (Prédio Adm.)",
-            "nomeSala": "A-211",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "951": {
-            "horarios": {},
-            "nomeArea": "Bloco A (Prédio Adm.)",
-            "nomeSala": "A-308 (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "952": {
-            "horarios": {},
-            "nomeArea": "Bloco A (Prédio Adm.)",
-            "nomeSala": "Sala Reuniões DG",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "953": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "B-003 LEMAT (10)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "954": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "Lab de Cartografia (35)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "955": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "Lab de Geografia Fisica (35)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "956": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "Lab de Geotecnologia (12)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "957": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "B-105 (Idiomas) (20)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "958": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "B-106(S 01) (35)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "959": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "B-107(S 02) (35)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "960": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "B-108(S 03) (35)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "961": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "B-109(S 04) (35)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "962": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "B-110(S 05) (50)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "963": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "B-205(S 06) (45)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "964": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "B-206(S 07) (30)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "965": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "B-207(S 08) (35)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "966": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "B-208(S 09) (50)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "967": {
-            "horarios": {},
-            "nomeArea": "Bloco B (Antigo Pav 1)",
-            "nomeSala": "B-209(S 10) (50)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "968": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-007 Lab Topografia",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "969": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-008 Lab Solos",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "970": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-010 Lab Ensaios",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "971": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-101  Audio I (60)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "972": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-102(S 01) (35)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "973": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-105(S 02) (35)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "974": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-106(S 03) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "975": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-107(S 04) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "976": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-108(S 05) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "977": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-109(S 06) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "978": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-110(S 07) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "979": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-111(S 08) (35)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "980": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-112(S 09) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "981": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-201(S 10) (60)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "982": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-202(S 11) (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "983": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-205 (Desenho) (25)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "984": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-206 (Desenho) (25)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "985": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-207 (Desenho) (25)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "986": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-208 (Desenho) (24)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "987": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-209 (Desenho) (30)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "988": {
-            "horarios": {},
-            "nomeArea": "Bloco D (Antigo Pav 2)",
-            "nomeSala": "D-210 (LAB Anat. e Biol.)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "989": {
-            "horarios": {},
-            "nomeArea": "Bloco E (Eletrotécnica)",
-            "nomeSala": "E-005 Lab Man. Elétrica",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "990": {
-            "horarios": {},
-            "nomeArea": "Bloco E (Eletrotécnica)",
-            "nomeSala": "E-006 Lab Inst Elétricas",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "991": {
-            "horarios": {},
-            "nomeArea": "Bloco E (Eletrotécnica)",
-            "nomeSala": "E-007 Lab Com. Elétricos",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "992": {
-            "horarios": {},
-            "nomeArea": "Bloco E (Eletrotécnica)",
-            "nomeSala": "E-008 Lab Máq. Elétricas",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "993": {
-            "horarios": {},
-            "nomeArea": "Bloco E (Eletrotécnica)",
-            "nomeSala": "E-009 Lab Tec. Elétrica",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "994": {
-            "horarios": {},
-            "nomeArea": "Bloco E (Eletrotécnica)",
-            "nomeSala": "E-010 Lab Med. Elétricas",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "995": {
-            "horarios": {},
-            "nomeArea": "Bloco E (Eletrotécnica)",
-            "nomeSala": "E-011 Lab de Automação",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "996": {
-            "horarios": {},
-            "nomeArea": "Bloco E (Eletrotécnica)",
-            "nomeSala": "E-103 - Áudio-Geografia (35)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "997": {
-            "horarios": {},
-            "nomeArea": "Bloco F (Física)",
-            "nomeSala": "F-005 (45)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "998": {
-            "horarios": {},
-            "nomeArea": "Bloco F (Física)",
-            "nomeSala": "F-006 (40)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "999": {
-            "horarios": {},
-            "nomeArea": "Bloco F (Física)",
-            "nomeSala": "F-007 (Áudio) (48)",
-            "total_alocacoes": 0,
-            "total_salas": 0
-        },
-        "id": 7
-    },
-    "data": "20191222"
+    ]
 }
