@@ -184,7 +184,9 @@ function verificarDropdown(data){
 function setarDataBusca(data){
     console.log(data);
     //$('#calendario').datetimepicker();
-
+    //data.focus();
+    $('#calendario').show();
+    $('#datetimepicker1 input').focus();
 }
 
 $(function(){
