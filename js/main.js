@@ -122,13 +122,16 @@ $(document).ready(function () {
     console.log(date);
 
     hoje = ""; hoje = hoje.concat(ano).concat(mes).concat(dia);
-    dataEspecificada = hoje;  // por enquanto...
+    //dataEspecificada = hoje;  // por enquanto...
+    dataEspecificada = "20191219"; // debug...
 
     var alertErro                   = '<div id="error" class="alert alert-danger" role="alert">' + '</div>';  // usar innerHTML pra setar algo no div :^)
     var msgErro_Requisicao          = "Falha ao obter dados de horários!!!";
 
     var capturedData = null;
 
+    // terei que repetir isso a cada especificacao de data... 
+    
     $.getJSON("dados/capturas/" + dataEspecificada + ".json", function (json) {
         //console.log(json);
         capturedData = json;
