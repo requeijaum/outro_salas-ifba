@@ -51,9 +51,9 @@
                 <!-- Search forma - not form, because I don't want to submit !!! -->
                 <div id="search_row" class="row">
 
-                    <form id="search_bar" class="form-inline">
+                    <form id="search_bar" class="form-inline" action="#">
                         <i style="margin-right: 8px; " class="fa fa-search" aria-hidden="true"></i>
-                        <input class="form-control form-control-sm w-50" type="text" placeholder="Buscar..."
+                        <input id="search_input" class="form-control form-control-sm w-50" type="text" placeholder="Buscar..." oninput="buscar(this, capturedData);"
                         aria-label="Buscar">
 
                         <div class="col w-50">
@@ -65,17 +65,17 @@
                                 <input style="margin-left: auto;" type="radio" class="" name="searchType" id="nomeArea">Nome do Pavilhão/Prédio</input>
                             -->
                             <div class="dropdown">
-                                <button onclick="verificarDropdown(this)" type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+                                <button onclick="verificarDropdown(this, opcoes)" type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
                                     Opções
                                 </button>
                                 <div class="dropdown-menu">
                                     <div class="dropdown-header"><b>Buscar por:</b></div> 
-                                    <a onclick="escolheModoBusca(this)" name="nomeAula" class="dropdown-item disabled" href="#">Nome da Disciplina/Professor/Turma</a>
-                                    <a onclick="escolheModoBusca(this)" name="nomeSala" class="dropdown-item disabled" href="#">Nome da Sala</a>
-                                    <a onclick="escolheModoBusca(this)" name="nomeArea" class="dropdown-item disabled" href="#">Nome do Pavilhão/Prédio</a>
+                                    <a onclick="opcoes=escolheModoBusca(this, opcoes);" name="nomeAula" id="nomeAula_drop" class="dropdown-item" href="#">Nome da Disciplina/Professor/Turma</a>
+                                    <a onclick="opcoes=escolheModoBusca(this, opcoes);" name="nomeSala" id="nomeSala_drop" class="dropdown-item" href="#">Nome da Sala</a>
+                                    <a onclick="opcoes=escolheModoBusca(this, opcoes);" name="nomeArea" id="nomeArea_drop" class="dropdown-item" href="#">Nome do Pavilhão/Prédio</a>
                                     <br>
                                     <div class="dropdown-header"><b>Escolher data:</b></div>
-                                    <a onclick="setarDataBusca(this)" id="setarDataBusca" class="dropdown-item disabled" href="#">Abrir Calendário</a>
+                                    <a onclick="setarDataBusca(this)" id="setarDataBusca" class="dropdown-item" href="#">Abrir Calendário</a>
                                     
                                 </div>
                             </div> 
