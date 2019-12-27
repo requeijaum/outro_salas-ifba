@@ -580,7 +580,7 @@ function buscar(data, allData){
 
 function carregarDados(dataEspecificada) {
 
-    let capturedData = null;
+    // let capturedData = null;
     let arrayData = dataEspecificada.split("/");
     let dia=arrayData[0]; let mes=arrayData[1]; let ano=arrayData[2];
 
