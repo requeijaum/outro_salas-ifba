@@ -377,9 +377,20 @@ function Headers(list, selector) {
 // instanciar, né?
 
 var capturedData = null;
+var alertErro                   = '<div id="error" class="alert alert-danger" role="alert">' + '</div>';  // usar innerHTML pra setar algo no div :^)
+var msgErro_Requisicao          = "Falha ao obter dados de horários!!!";
 
-$(document).ready(function () {
+
+// set locales
+moment.locale('pt-br');
+
+
+
+$(document).ready(function () {     // refatorar as coisas aqui pra rodar em funções com callbacks
+                                    // mas e o objeto capturedData ???
+                                    
     console.log("Preparado!");
+
     // qual a data de hoje?
     var date = new Date();
 
@@ -393,32 +404,7 @@ $(document).ready(function () {
     dataEspecificada = hoje;  // por enquanto...
     //dataEspecificada = "20191219"; // debug...
 
-    var alertErro                   = '<div id="error" class="alert alert-danger" role="alert">' + '</div>';  // usar innerHTML pra setar algo no div :^)
-    var msgErro_Requisicao          = "Falha ao obter dados de horários!!!";
-
-
-    // terei que repetir isso a cada especificacao de data... 
-
-    $.getJSON("dados/capturas/" + dataEspecificada + ".json", function (json) {
-        //console.log(json);
-        capturedData = json;
-    })
-    .fail(function(){
-        console.log(msgErro_Requisicao) ; $('main').append(insereMsgAlerta(alertErro, msgErro_Requisicao)) 
-    })
-    .done(function(){
-        console.log(capturedData);                          // constructTable('#table', capturedData) ;
-        constructList("", "", "", capturedData)             // constructList(nomeAula, nomeSala, nomeArea, dados) --> 'nomeProfessor' incluso em nomeAula
-        $('#dia_a_mostrar').html(dia+"/"+mes+"/"+ano);      // avisar na tela qual o dia que estamos vendo...
-        
-    });
-        
-
-
-    // Agora vamos criar uma lista a partir do que já temos?
-    // https://www.w3schools.com/howto/howto_js_filter_lists.asp
-
-
+     
 });
 
 
@@ -460,6 +446,10 @@ var opcoes = {
 function verificarDropdown(data, opcoes){
     console.log(data);
     
+    // limpar o input da barra de busca
+    $('#search_input').val("");
+
+
     console.log("verificarDropdown(): segue o estado de 'var opcoes'...hmm...");
     console.log(opcoes);
     
@@ -533,9 +523,36 @@ function setarDataBusca(data){
 }
 
 $(function(){
-    $('#datetimepicker1').datetimepicker();
+    $('#datetimepicker1').datetimepicker({
+        format: "L",
+        locale: "pt-br",
+    });
 
 });
+
+/*
+var ed = {
+    change, //Change type as a momentjs format token. Type: string e.g. yyyy on year change
+    viewDate //new viewDate. Type: moment object
+}
+*/
+
+$('#datetimepicker1').datetimepicker;
+
+function mudouData(){ //, capturedData) {
+
+    console.log("mudouData(): rodando...");
+    var datinha = $('#datetimepicker1').datetimepicker("viewDate");
+    //console.log(meme);
+    //console.log(datinha);
+
+    // rodar a funcao q constroi a porra toda com dados a partir de um JSON
+    carregarDados(datinha._i, capturedData);
+    
+    return datinha._i;  // usar durante como "on" handler
+
+}
+
 
 function buscar(data, allData){
 
@@ -560,3 +577,41 @@ function buscar(data, allData){
 
 
 }
+
+function carregarDados(dataEspecificada) {
+
+    let capturedData = null;
+    let arrayData = dataEspecificada.split("/");
+    let dia=arrayData[0]; let mes=arrayData[1]; let ano=arrayData[2];
+
+    dataEspecificada = ""+ano + mes + dia;
+
+    console.log("carregarDados('" + dataEspecificada + "')");
+    // destrinchar data com String.split("/")
+
+    // quem é dia, mes e ano?
+
+    
+
+    $.getJSON("dados/capturas/" + dataEspecificada + ".json", function (json) {     // carregar arquivo JSON
+                                                                                    // terei que repetir isso a cada especificacao de data... 
+        //console.log(json);
+        capturedData = json;
+    })
+    .fail(function(){
+        console.log(msgErro_Requisicao) ; $('main').append(insereMsgAlerta(alertErro, msgErro_Requisicao)) 
+    })
+    .done(function(){
+        console.log(capturedData);                          // constructTable('#table', capturedData) ;
+        constructList("", "", "", capturedData)             // constructList(nomeAula, nomeSala, nomeArea, dados) --> 'nomeProfessor' incluso em nomeAula
+        $('#dia_a_mostrar').html(dia+"/"+mes+"/"+ano);      // avisar na tela qual o dia que estamos vendo...
+        
+    });
+
+    // returnar um objeto? posso setar algo no var captura ?
+    return capturedData
+
+}
+
+// mostrar tooltip para passar um Enter
+$('[data-toggle="tooltip"]').tooltip()
