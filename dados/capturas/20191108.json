@@ -1,0 +1,1705 @@
+{
+    "areas": [
+        "6",
+        "20",
+        "5",
+        "7",
+        "26",
+        "25",
+        "39",
+        "17",
+        "12",
+        "16",
+        "3",
+        "8",
+        "38",
+        "4",
+        "11",
+        "10"
+    ],
+    "data": "20191108",
+    "dados": {
+        "id": 1,
+        "1": {
+            "nomeArea": "Bloco A (Prédio Adm.)",
+            "nomeSala": "A-207 LAPEG (10)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "2": {
+            "nomeArea": "Bloco A (Prédio Adm.)",
+            "nomeSala": "A-211",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "3": {
+            "nomeArea": "Bloco A (Prédio Adm.)",
+            "nomeSala": "A-308 (40)",
+            "horarios": {
+                "18:40": "MAT217 T01 - Paulo Espinheira"
+            },
+            "total_alocacoes": 1,
+            "total_salas": 4
+        },
+        "4": {
+            "nomeArea": "Bloco A (Prédio Adm.)",
+            "nomeSala": "Sala Reuniões DG",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "5": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-003 LEMAT (10)",
+            "horarios": {
+                "18:40": "MAT239 T01 - Anete Cruz",
+                "20:20": "MAT236 T01 - Daniela Cunha"
+            },
+            "total_alocacoes": 49,
+            "total_salas": 15
+        },
+        "6": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "Lab de Cartografia (35)",
+            "horarios": {
+                "18:40": "GEO105\tT01 - Ricardo Bahia",
+                "20:20": "GEO109 - Ricardo Bahia"
+            },
+            "total_alocacoes": 50,
+            "total_salas": 15
+        },
+        "7": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "Lab de Geografia Fisica (35)",
+            "horarios": {
+                "20:20": "GEO118 T01 - Nilton Santana",
+                "21:10": "8842 - OPU - Márcia Queiroz"
+            },
+            "total_alocacoes": 62,
+            "total_salas": 15
+        },
+        "8": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "Lab de Geotecnologia (12)",
+            "horarios": {
+                "18:40": "GEO140 T01 - Nilton Santana"
+            },
+            "total_alocacoes": 37,
+            "total_salas": 15
+        },
+        "9": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-105 (Idiomas) (20)",
+            "horarios": {
+                "13:40": "11831 - Inglês (G1) - Deise Medina",
+                "15:20": "5832 - Inglês (G2)  - Deise Silveira",
+                "17:00": "8832 - Inglês  - Antônia Socorro",
+                "17:50": "6842 - Filosofia - Saulo Assis",
+                "18:40": "13752 - Inglês - Antônia Socorro"
+            },
+            "total_alocacoes": 38,
+            "total_salas": 15
+        },
+        "10": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-106(S 01) (35)",
+            "horarios": {
+                "17:00": "6842 - Sociologia - Luis Antônio",
+                "18:40": "6842 - Geografia - Sandra Freitas",
+                "20:20": "6842 - Eletrônica - Thales Faria"
+            },
+            "total_alocacoes": 52,
+            "total_salas": 15
+        },
+        "11": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-107(S 02) (35)",
+            "horarios": {
+                "10:20": "Monitoria de Física - Mateus Morais",
+                "13:40": "Monitoria de Física - Mateus Morais",
+                "17:00": "1831 - Tec. Construtivas - Élvio Guimarães",
+                "18:40": "13772 - ONQ EMPREND - Carlos Alberto",
+                "20:20": "5841 - Geografia - Ana Paula Anunciação"
+            },
+            "total_alocacoes": 53,
+            "total_salas": 15
+        },
+        "12": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-108(S 03) (35)",
+            "horarios": {
+                "08:40": "Profª Mônica - Química",
+                "11:10": "6811 - Filosofia - Maria Saievicz",
+                "18:40": "13762 - SMS - Mara Souza",
+                "20:20": "3932 - SMS - Mara Souza"
+            },
+            "total_alocacoes": 54,
+            "total_salas": 15
+        },
+        "13": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-109(S 04) (35)",
+            "horarios": {
+                "10:20": "1832 - Filosofia - Jeudy Aragão",
+                "13:40": "1831 - Filosofia - Maria Saievicz",
+                "15:20": "1831 - Sist. Estruturais - Adriano Fortes",
+                "17:00": "EST231 T01 - Norma Souza",
+                "18:40": "6841 - Biologia - Jeferson Coutinho",
+                "20:20": "6841 - Geografia - Clebson Costa"
+            },
+            "total_alocacoes": 55,
+            "total_salas": 15
+        },
+        "14": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-110(S 05) (50)",
+            "horarios": {
+                "07:00": "6811 - Português - Waleska Moura",
+                "07:50": "Curso de Extensão UAB - Turma 1",
+                "08:40": "6811 - História - Lais Viena",
+                "10:20": "6811 - Sociologia - Wagner Vinhas",
+                "13:40": "Atendimento 5821 - Matemática - Prof. Vitor Rios",
+                "18:40": "ENG416 T01 - Fabiano Campos",
+                "20:20": "ENG514 T01 - Luis Filipe"
+            },
+            "total_alocacoes": 56,
+            "total_salas": 15
+        },
+        "15": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-205(S 06) (45)",
+            "horarios": {
+                "08:40": "10841 - SMS - Samara Andrade",
+                "10:20": "Turma:1813 profª Virlene- história",
+                "12:50": "Turma:8811 profª Virlene - historia",
+                "18:40": "3932 - Inglês - Marcos Fernando",
+                "20:20": "MAT217 T03 - Paulo Espinheira"
+            },
+            "total_alocacoes": 57,
+            "total_salas": 15
+        },
+        "16": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-206(S 07) (30)",
+            "horarios": {
+                "07:00": "10841 - Artes - Guiomar Fontes",
+                "08:40": "6821 - História - Ludimila Guirra",
+                "12:50": "T:11811 e 2811 prof: George - física",
+                "18:40": "2912 - Matemática - Norma Oliveira",
+                "20:20": "ENG501\tT01 - Maria Aparecida"
+            },
+            "total_alocacoes": 58,
+            "total_salas": 15
+        },
+        "17": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-207(S 08) (35)",
+            "horarios": {
+                "07:00": "6821 - Geografia - Zenildes Protázio",
+                "08:40": "6812 - Química - Aline Mendes",
+                "10:20": "6812 - Matemática - Silvia Costa",
+                "12:50": "Profº Alberto Leal - Sociologia",
+                "18:40": "3912 - G. Hotelaria I - Chelly",
+                "20:20": "2932 - Eletrônica - Letícia Lessa"
+            },
+            "total_alocacoes": 59,
+            "total_salas": 15
+        },
+        "18": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-208(S 09) (50)",
+            "horarios": {
+                "10:20": "6813 - História - Erivaldo Nunes",
+                "15:20": "9841 - TCM - Luiz Anselmo",
+                "17:00": "9841 - Geografia - Ubiraci Carlúcio",
+                "18:40": "9841 - AEC - Carlos Anibal",
+                "20:20": "9841 - ONQ - Josafá Coelho"
+            },
+            "total_alocacoes": 60,
+            "total_salas": 15
+        },
+        "19": {
+            "nomeArea": "Bloco B (Antigo Pav 1)",
+            "nomeSala": "B-209(S 10) (50)",
+            "horarios": {
+                "07:00": "6813 - Português - Erika Fonseca",
+                "12:50": "Profº Erivaldo Nunes - História",
+                "18:40": "ADM509 T01 - Patricia Seixas",
+                "20:20": "8842 - COR - Márcia Queiroz"
+            },
+            "total_alocacoes": 61,
+            "total_salas": 15
+        },
+        "20": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-007 Lab Topografia",
+            "horarios": {
+                "14:30": "1821 - Topografia (G2) - Aristides Filho",
+                "15:20": "1822 - Mat. Const. (G2) - Jenner Carvalho",
+                "18:40": "13742 - Topografia - Raimundo César",
+                "20:20": "13772 - Proj. O. Saneamento - Raimundo Cruz"
+            },
+            "total_alocacoes": 92,
+            "total_salas": 21
+        },
+        "21": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-008 Lab Solos",
+            "horarios": {
+                "13:40": "1811 - Mat. Const. - Rogério Menezes",
+                "17:00": "1832 - Mec. Solos - Rogério Menezes",
+                "18:40": "13732 - Introdução Hidra - Jorge Chaves",
+                "20:20": "13752 - Proj. Obras S Amb - Jorge Chaves"
+            },
+            "total_alocacoes": 93,
+            "total_salas": 21
+        },
+        "22": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-010 Lab Ensaios",
+            "horarios": {
+                "13:40": "1822 - Mat. Const. (G1) - Jenner Carvalho",
+                "15:20": "1841 - TCC - Maria do Carmo Baltar",
+                "16:10": "1811 - Sociologia - Substituto",
+                "19:30": "8841 - OPU - Márcia Queiroz"
+            },
+            "total_alocacoes": 91,
+            "total_salas": 21
+        },
+        "23": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-101  Audio I (60)",
+            "horarios": {
+                "14:30": "1821 - Desenho Arq. (G1) - Leandro Souza"
+            },
+            "total_alocacoes": 52,
+            "total_salas": 21
+        },
+        "24": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-102(S 01) (35)",
+            "horarios": {
+                "07:00": "11821 - Filosofia - Ronaldo Pimentel",
+                "08:40": "11821 - História - Virlene Moreira",
+                "10:20": "11821 - Geografia - Ana Paula Anunciação",
+                "11:10": "2813 - Filosofia - Maria Saievicz",
+                "13:40": "1841 - Conc. de Empreend. - Ubiratan Félix",
+                "15:20": "1842 - Conc. de Empreend. - Ubiratan Félix",
+                "17:00": "1811 - Física - Isabelle Priscila",
+                "17:50": "6841 - Filosofia -Tiago Medeiros",
+                "18:40": "FIS211 T01 - Ebenezer Cavalcanti",
+                "20:20": "QUI517 T01 - Marcia Bispo"
+            },
+            "total_alocacoes": 94,
+            "total_salas": 21
+        },
+        "25": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-105(S 02) (35)",
+            "horarios": {
+                "08:40": "11822 - Geografia - Zenildes Protázio",
+                "10:20": "11822 - Física - Marcus Fernandes",
+                "13:40": "1821 - Português - Elisângela Passos",
+                "15:20": "9831 - ELETR  POT - Carlos Anibal",
+                "16:10": "2842 - Sociologia - Luis Antônio",
+                "17:00": "1821 - Quimica - Joseína Moutinho",
+                "18:40": "13722 - Matemática - Acélio Rodrigues",
+                "20:20": "3922 - EDP - Chelly"
+            },
+            "total_alocacoes": 95,
+            "total_salas": 21
+        },
+        "26": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-106(S 03) (40)",
+            "horarios": {
+                "07:00": "5812 - Física - Fábio Paiva",
+                "08:40": "5812 - Português - Waleska Moura",
+                "09:30": "9821 - Física - Gilmar Melo",
+                "10:20": "5812 - Int Aut - Paulo César",
+                "13:40": "1842 - TCC - Maria do Carmo Baltar",
+                "15:20": "1812 - Português - Wesley Correia",
+                "17:00": "8841 - Geografia - Patricia de Freitas",
+                "18:40": "8841 - COR - Márcia Queiroz",
+                "20:20": "8841 - Biologia - Jeferson Coutinho"
+            },
+            "total_alocacoes": 96,
+            "total_salas": 21
+        },
+        "27": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-107(S 04) (40)",
+            "horarios": {
+                "07:50": "5813 - Filosofia - Daila Ataide",
+                "10:20": "9813 - Eletrônica - Diego Cardoso",
+                "13:40": "9831 - Português - Erika Fonseca",
+                "17:00": "1822 - Física - José Claudio",
+                "18:40": "5912 - Matemática - Patrícia Fernandes",
+                "20:20": "MAT204 T01 - Márcia Guariente"
+            },
+            "total_alocacoes": 97,
+            "total_salas": 21
+        },
+        "28": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-108(S 05) (40)",
+            "horarios": {
+                "07:00": "2811 - Português - Manuela Peixinho",
+                "08:40": "2811 - Matemática - Cecília Almeida",
+                "10:20": "2811 - História - Vera Nathália",
+                "13:40": "1812 - Física - José Claudio",
+                "15:20": "6831 - História - Vanderlei Marinho",
+                "17:00": "11841 - Automação (G1) - Sylvio",
+                "18:40": "11841 - Biologia - Taiara Aguiar",
+                "20:20": "ADM510 T01 - Eduardo Seixas"
+            },
+            "total_alocacoes": 98,
+            "total_salas": 21
+        },
+        "29": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-109(S 06) (40)",
+            "horarios": {
+                "07:00": "8811 - Química (T) - Viviana Rocha",
+                "08:40": "2813 - Matemática - Florêncio Filho",
+                "10:20": "2813 - Sociologia - Alberto Neto",
+                "13:40": "2832 - Física - Igor Leonardo",
+                "15:20": "1832 - Tec Constr - Élvio Guimarães",
+                "17:00": "6841 - Sociologia - Substituto",
+                "18:40": "LET111 T03 - José Roberto",
+                "20:20": "2922 - Sociologia  - Luis Antonio"
+            },
+            "total_alocacoes": 99,
+            "total_salas": 21
+        },
+        "30": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-110(S 07) (40)",
+            "horarios": {
+                "10:20": "8811 - Português - Érika Fonseca",
+                "13:40": "6831 - Sociologia - Wagner Vinhas",
+                "17:00": "6831 - Filosofia - Maria Saievicz",
+                "18:40": "2842 - Filosofia - Saulo Assis",
+                "20:20": "6912 - Matemática - Norma Oliveira"
+            },
+            "total_alocacoes": 100,
+            "total_salas": 21
+        },
+        "31": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-111(S 08) (35)",
+            "horarios": {
+                "07:00": "5813 - Sociologia - Wagner Vinhas",
+                "08:40": "5813 - Física - Marcus Fernandes",
+                "10:20": "5813 - Química - Tereza Cristiane",
+                "13:40": "1832 - Sist. Estruturais - Adriano Fortes",
+                "15:20": "2831 - História - Vera Nathália",
+                "17:00": "MAT223 T04 - Patricia Fernandes",
+                "18:40": "MAT234 T01 - Daniela Cunha",
+                "20:20": "ADM531 T01 - Claudio Mello"
+            },
+            "total_alocacoes": 101,
+            "total_salas": 21
+        },
+        "32": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-112(S 09) (40)",
+            "horarios": {
+                "07:00": "5811 - Int. Aut - Paulo César",
+                "08:40": "5811 - História - Erivaldo Nunes",
+                "10:20": "5811 - Física - Rafael Nascimento",
+                "13:40": "2812 - Artes - Guiomar Fontes",
+                "17:00": "5832 - Filosofia - Jeudy Aragão",
+                "18:40": "MAT233 T01 - Reinaldo Lima",
+                "20:20": "HUM101\tT01 - Daniel Romero"
+            },
+            "total_alocacoes": 102,
+            "total_salas": 21
+        },
+        "33": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-201(S 10) (60)",
+            "horarios": {
+                "10:20": "9821 - Filosofia - Tiago Medeiros",
+                "13:40": "Prova de Recuperação - Turmas 5821 e 8821 - Prof Vitor Rios",
+                "17:00": "2842 - Geografia - Sandra Freitas",
+                "18:40": "HUM151\tT01 - Daniel Romero",
+                "20:20": "6922- SMS - Armando Tanimoto"
+            },
+            "total_alocacoes": 103,
+            "total_salas": 21
+        },
+        "34": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-202(S 11) (40)",
+            "horarios": {
+                "10:20": "6822 - Física - Igor Leonardo",
+                "13:40": "2831 - Física - Alisson Costa",
+                "17:00": "2831 - Matemática - Cleide Brasil",
+                "18:40": "HUM100 T02 - Maria Lucileide",
+                "20:20": "5912 - Desenho Técnico (G2) - Gustavo Leal"
+            },
+            "total_alocacoes": 104,
+            "total_salas": 21
+        },
+        "35": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-205 (Desenho) (25)",
+            "horarios": {
+                "08:40": "2812 - Desenho (G1) - Ana Paula Cordeiro",
+                "10:20": "2812 - Desenho (G2) - Ana Paula Cordeiro",
+                "18:40": "9912 - Desenho (G2) - Gustavo Leal"
+            },
+            "total_alocacoes": 89,
+            "total_salas": 21
+        },
+        "36": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-206 (Desenho) (25)",
+            "horarios": {
+                "07:00": "6822 - Desenho (G1) - Justo Salazar",
+                "08:40": "6822 - Desenho (G2) - Justo Salazar"
+            },
+            "total_alocacoes": 18,
+            "total_salas": 21
+        },
+        "37": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-207 (Desenho) (25)",
+            "horarios": {
+                "08:40": "11811 - Desenho (G1) - Cláudio Mário",
+                "10:20": "11811 - Desenho (G2) - Claudio Mario",
+                "18:40": "9912 - Desenho (G1) - Sinval Sacramento",
+                "20:20": "5912 - Desenho Técnico (G1) - Sinval Sacramento"
+            },
+            "total_alocacoes": 105,
+            "total_salas": 21
+        },
+        "38": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-208 (Desenho) (24)",
+            "horarios": {
+                "07:00": "9813 - Desenho (G1) - Gustavo Leal",
+                "08:40": "9813 - Desenho (G2) - Gustavo Ale",
+                "10:20": "9812 - Desenho (G1) - José Augusto",
+                "13:40": "9812 - Desenho (G2) - José Augusto"
+            },
+            "total_alocacoes": 50,
+            "total_salas": 21
+        },
+        "39": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-209 (Desenho) (30)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "40": {
+            "nomeArea": "Bloco D (Antigo Pav 2)",
+            "nomeSala": "D-210 (LAB Anat. e Biol.)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "41": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-005 Lab Man. Elétrica",
+            "horarios": {
+                "18:40": "2922 - Mecânica (G1) - Ilder Bastos"
+            },
+            "total_alocacoes": 5,
+            "total_salas": 8
+        },
+        "42": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-006 Lab Inst Elétricas",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "43": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-007 Lab Com. Elétricos",
+            "horarios": {
+                "13:40": "11832 - Eletrotécnica (G1) - Rafael Santana",
+                "18:40": "2841 - Eletrônica Geral (T) - Diego Cardoso"
+            },
+            "total_alocacoes": 6,
+            "total_salas": 8
+        },
+        "44": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-008 Lab Máq. Elétricas",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "45": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-009 Lab Tec. Elétrica",
+            "horarios": {
+                "15:20": "2841 - Geografia - Ricardo Bahia",
+                "17:00": "2841 -  Filosofia - Tiago Medeiros",
+                "17:50": "2841 - Sociologia - Luis Antônio",
+                "18:40": "2932 - Eletrotécnica III - Rafael Santana"
+            },
+            "total_alocacoes": 7,
+            "total_salas": 8
+        },
+        "46": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-010 Lab Med. Elétricas",
+            "horarios": {
+                "18:40": "2922 - MEDIDAS I (G2) - Davi Rêgo"
+            },
+            "total_alocacoes": 8,
+            "total_salas": 8
+        },
+        "47": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-011 Lab de Automação",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "48": {
+            "nomeArea": "Bloco E (Eletrotécnica)",
+            "nomeSala": "E-103 - Áudio-Geografia (35)",
+            "horarios": {
+                "18:40": "GEO104 T01 - Patricia Ponte",
+                "20:20": "GEO106 T01 - Patricia Ponte"
+            },
+            "total_alocacoes": 10,
+            "total_salas": 8
+        },
+        "49": {
+            "nomeArea": "Bloco F (Física)",
+            "nomeSala": "F-005 (45)",
+            "horarios": {
+                "09:30": "8813 - Química I (T) - Viviana Rocha",
+                "10:20": "6821 - Física - Alisson Costa",
+                "13:40": "1813 - Química - Tereza Cristiane",
+                "17:00": "1813 - Português - Gisélia Evangelista",
+                "18:40": "ENG411 T01 - Leonardo Notz",
+                "20:20": "13742 - Biologia - Taiara Aguiar"
+            },
+            "total_alocacoes": 9,
+            "total_salas": 3
+        },
+        "50": {
+            "nomeArea": "Bloco F (Física)",
+            "nomeSala": "F-006 (40)",
+            "horarios": {
+                "10:20": "10821 - Química - Aline Mendes",
+                "13:40": "8831 - Sociologia - Substituto",
+                "15:20": "8831 - Física - Eliana Alcântara",
+                "20:20": "FIS215 T01 - Raimundo Nonato"
+            },
+            "total_alocacoes": 10,
+            "total_salas": 3
+        },
+        "51": {
+            "nomeArea": "Bloco F (Física)",
+            "nomeSala": "F-007 (Áudio) (48)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "52": {
+            "nomeArea": "Bloco G (Canteiro de Obras)",
+            "nomeSala": "G-001 Lab Hidráulica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "53": {
+            "nomeArea": "Bloco G (Canteiro de Obras)",
+            "nomeSala": "G-002 Lab Informática",
+            "horarios": {
+                "13:30": "1822 - DAC (G2) - Michelle dos Anjos",
+                "15:00": "+"
+            },
+            "total_alocacoes": 2,
+            "total_salas": 6
+        },
+        "54": {
+            "nomeArea": "Bloco G (Canteiro de Obras)",
+            "nomeSala": "G-003 Sl Desenho",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "55": {
+            "nomeArea": "Bloco G (Canteiro de Obras)",
+            "nomeSala": "G-004 Lab de Águas",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "56": {
+            "nomeArea": "Bloco G (Canteiro de Obras)",
+            "nomeSala": "PISA",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "57": {
+            "nomeArea": "Bloco G (Canteiro de Obras)",
+            "nomeSala": "G-005 Lab Elétrica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "58": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Automação Hidráulica (15)",
+            "horarios": {
+                "18:40": "6942 - Manutenção II - Valdir Garcia",
+                "20:20": "ENG307 T01 - João Barbosa"
+            },
+            "total_alocacoes": 29,
+            "total_salas": 15
+        },
+        "59": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Lab. Informática (20)",
+            "horarios": {
+                "13:40": "11832 - PAC (G1) - Luana Orlandini",
+                "15:20": "11832 - PAC (G2) - Luana Orlandini",
+                "20:20": "MCO302 T01 - Moacir Bispo"
+            },
+            "total_alocacoes": 30,
+            "total_salas": 15
+        },
+        "60": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Lab. Refrigeração (25)",
+            "horarios": {
+                "20:20": "ENG301 P01 - Mirtânia Leão"
+            },
+            "total_alocacoes": 31,
+            "total_salas": 15
+        },
+        "61": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Metalografia (25)",
+            "horarios": {
+                "07:00": "6822 - Tec. Mat (G2) - Moacir",
+                "08:40": "6822 - Tec. Mat (G1) - Moacir Bispo",
+                "16:10": "11841 - Man. Sist. Term. (G2) - Antônio Gabriel",
+                "18:40": "ENG302 P01 - Mirtânia Leão"
+            },
+            "total_alocacoes": 19,
+            "total_salas": 15
+        },
+        "62": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Oficina de Refrigeração",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "63": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Oficina de Soldagem",
+            "horarios": {
+                "17:00": "ENG330 T01 - Luana Orlandini",
+                "19:30": "5841 - Filosofia - Saulo Assis",
+                "20:20": "ENG340 T01 - João Barbosa"
+            },
+            "total_alocacoes": 32,
+            "total_salas": 15
+        },
+        "64": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Órtese/Prótese (35)",
+            "horarios": {
+                "17:00": "ENG328 T01 - Mario Cezar",
+                "18:40": "6932 - Inspeção de Equipamentos - Luana Orlandini"
+            },
+            "total_alocacoes": 20,
+            "total_salas": 15
+        },
+        "65": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Sala 5 - DATM (20)",
+            "horarios": {
+                "18:40": "ENG316 T01 - Paulo Cesar",
+                "20:20": "ENG317 T01 - Antonio Bitencourt"
+            },
+            "total_alocacoes": 33,
+            "total_salas": 15
+        },
+        "66": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Automação Pneumática (15)",
+            "horarios": {
+                "17:50": "8842 - ONQ - Carlos Alberto",
+                "20:20": "ENG323 T01 - Ivan da Costa"
+            },
+            "total_alocacoes": 34,
+            "total_salas": 15
+        },
+        "67": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Sala de CNC (10)",
+            "horarios": {
+                "07:00": "6812 - El. Máquinas - José Fernando",
+                "08:40": "6813 - El. Máquinas - José Fernando",
+                "18:40": "6922 - Máquinas Térmicas e Fluxo - Francisco Souza",
+                "20:20": "ENG308 T01 - Antonio Bitencourt"
+            },
+            "total_alocacoes": 35,
+            "total_salas": 15
+        },
+        "68": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Sala de Fabricação",
+            "horarios": {
+                "17:00": "ENG309 T01 - Mário Cezar",
+                "18:40": "ENG319 T01 - Eduardo Santana",
+                "20:20": "ENG315 T01 - Mario Cezar"
+            },
+            "total_alocacoes": 36,
+            "total_salas": 15
+        },
+        "69": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Sala de Fresagem/Torneari (40)",
+            "horarios": {
+                "07:00": "6812 - Man I - Marcos César",
+                "17:00": "ENG311 - T01 - Luana Orlandini",
+                "18:40": "ENG324 - Sylvio Laurante",
+                "20:20": "11841 - Confort. (G1) - Luanda Kivia"
+            },
+            "total_alocacoes": 37,
+            "total_salas": 15
+        },
+        "70": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Lab. de Metrologia (20)",
+            "horarios": {
+                "08:40": "6813 - MAN I - Marcos Cesar",
+                "17:00": "ENG314 T01 - Antonio Bitencourt",
+                "18:40": "ENG303 T01 - João Barbosa",
+                "20:20": "11841 - Inst. Bal. - (G2) - Antônio Gabriel"
+            },
+            "total_alocacoes": 38,
+            "total_salas": 15
+        },
+        "71": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Sala de Refrigeração (40)",
+            "horarios": {
+                "13:40": "6832 - Refrigeração - Eduardo Luís",
+                "15:20": "11832 - Eletrotécnica (G2) - Rafael Santana",
+                "18:40": "5841 - Sociologia - Substituto"
+            },
+            "total_alocacoes": 26,
+            "total_salas": 15
+        },
+        "72": {
+            "nomeArea": "Bloco H (Mecânica)",
+            "nomeSala": "Sala de Tecnologia Mecân (40)",
+            "horarios": {
+                "18:40": "8842 - SMS - Eduardo Marinho"
+            },
+            "total_alocacoes": 27,
+            "total_salas": 15
+        },
+        "73": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-106 (30)",
+            "horarios": {
+                "07:00": "8821 - Matemática - Vitor Rios",
+                "08:40": "8821 - Sociologia - Rogério Lustosa",
+                "09:30": "9822 - Português para Surdos - Alexandra Calixto",
+                "10:20": "8821 - Física - Elinoel Valverde",
+                "11:10": "8821 - Português - Solange Santana",
+                "18:40": "LET116 T01 - Itamaray Nascimento",
+                "20:20": "ENG422 T01 - Emerson Valci"
+            },
+            "total_alocacoes": 24,
+            "total_salas": 8
+        },
+        "74": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-107 (11)",
+            "horarios": {
+                "10:20": "9832 - Português para surdos - Alessandra Calixto",
+                "17:50": "Mestrado - PPGEM",
+                "18:40": "QUI541 T01 - Ana Luisa Carvalho",
+                "20:20": "ENG465 T01 - Maria das Graças"
+            },
+            "total_alocacoes": 25,
+            "total_salas": 8
+        },
+        "75": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-110 (20)",
+            "horarios": {
+                "08:40": "2812(G2)/ 9813(G1)/ 11811(G2) - Monitoria de Matemática - Délis",
+                "10:20": "2812(G1)/ 9812(G2)/ 11811(G1) - Monitoria de Matemática - Délis",
+                "13:40": "9812(G1) / 9813(G2) - Monitoria de Matemática - Delis",
+                "17:00": "ENG509 T01 - Laio Damasceno",
+                "18:40": "FIS216 T01 - Eliana Alcantara",
+                "20:20": "GEO121\tT01 - Hingryd Freitas"
+            },
+            "total_alocacoes": 26,
+            "total_salas": 8
+        },
+        "76": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-111 (20)",
+            "horarios": {
+                "15:20": "Atendimento Geral - Monitoria de Matemática - Delis",
+                "17:00": "ENG547 T01 - Carlos Suffredini",
+                "18:40": "GEO124 T01 - Ubiraci Carlucio",
+                "20:20": "GEO123 T01 - Ubiraci Carlucio"
+            },
+            "total_alocacoes": 27,
+            "total_salas": 8
+        },
+        "77": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-112 (20)",
+            "horarios": {
+                "15:20": "Monitoria de Cálculo I - Moisés Sena",
+                "18:40": "GEO131 T01 - Severiano Joseh",
+                "20:20": "QUI520 T01 - Aldemiro Palma"
+            },
+            "total_alocacoes": 28,
+            "total_salas": 8
+        },
+        "78": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-114 (10)",
+            "horarios": {
+                "18:40": "GEO111 T01 -  Hingryd Freitas"
+            },
+            "total_alocacoes": 22,
+            "total_salas": 8
+        },
+        "79": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-115 (20)",
+            "horarios": {
+                "08:40": "Monitoria de Português - Iverton José",
+                "17:00": "ENG436 T01 - Cristina Abreu",
+                "18:40": "ENG453 T01 - Emerson Valci"
+            },
+            "total_alocacoes": 23,
+            "total_salas": 8
+        },
+        "80": {
+            "nomeArea": "Bloco K (Biblioteca)",
+            "nomeSala": "K-116 (10)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "81": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L-001 LAB ENG. QUÍMICA (10)",
+            "horarios": {
+                "18:40": "ENG512 T01 - Kan Lin"
+            },
+            "total_alocacoes": 30,
+            "total_salas": 11
+        },
+        "82": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L-002 CENT IDIOMAS (40)",
+            "horarios": {
+                "07:00": "11822 - Inglês (G2) - Maurício Neto",
+                "10:20": "5821 - Inglês (G1) - Maurício Neto",
+                "15:20": "5832 - Inglês (G1)  - Fábio Magarão",
+                "17:00": "LET112 T03 - Erivaldo Marinho",
+                "18:40": "LET112 T04 - Erivaldo Marinho",
+                "20:20": "LET102 T02 - Luzia Fernandes"
+            },
+            "total_alocacoes": 39,
+            "total_salas": 11
+        },
+        "83": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L-003 (Áudio 03) (45)",
+            "horarios": {
+                "07:00": "11822 - Inglês (G1) - Maria Cristina",
+                "10:20": "5821 - Inglês (G2) - Maria Cristina",
+                "13:40": "11831 - Inglês (G2) - Antônia Socorro",
+                "15:20": "5832 - Inglês (G2)  - Deise Medina",
+                "17:00": "LET115 T01 - Luzia Helena",
+                "18:40": "6912 - Inglês - Fábio Magarão"
+            },
+            "total_alocacoes": 32,
+            "total_salas": 11
+        },
+        "84": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L-004 LEUS/GPEND (10)",
+            "horarios": {
+                "11:10": "8822 - Português - Solange Santana"
+            },
+            "total_alocacoes": 14,
+            "total_salas": 11
+        },
+        "85": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L-010 LAB ENG. QUÍMICA (20)",
+            "horarios": {
+                "18:40": "ENG433 T01 - Ivan Costa",
+                "20:20": "RAD238 T01 - Isabelle Pinheiro"
+            },
+            "total_alocacoes": 40,
+            "total_salas": 11
+        },
+        "86": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L101 (45)",
+            "horarios": {
+                "10:20": "Profª Socorro Chaves - Inglês",
+                "12:50": "Profº José Gomes - Português",
+                "15:20": "Profº José Gomes - Português",
+                "17:00": "ADM552 T01 - Marcos Carvalho",
+                "18:40": "RAD259 T01 - Isabelle Pinheiro",
+                "20:20": "MAT225 T01 - Luis Vasquez"
+            },
+            "total_alocacoes": 41,
+            "total_salas": 11
+        },
+        "87": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L102 (50)",
+            "horarios": {
+                "07:00": "8822 - Física - Ricardo Macêdo",
+                "08:40": "8822 - História - Antônio Lima",
+                "10:20": "8822 - Matemática - Vitor Rios",
+                "12:50": "Profº Nelson - Matemática",
+                "15:20": "2832 - Português - Alex Batista",
+                "17:00": "2832 - História - Vanderlei Marinho",
+                "18:40": "ADM521 T01 - Michele Nunes",
+                "20:20": "MAT223 T02 - Patricia Fernandes"
+            },
+            "total_alocacoes": 42,
+            "total_salas": 11
+        },
+        "88": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L103 (50)",
+            "horarios": {
+                "07:00": "8823 - História - Virlene Moreira",
+                "08:40": "8823 - Física - Rafel Nascimento",
+                "10:20": "8823 - Português - José Gomes",
+                "17:00": "1841 - Espanhol (G1) - Itamaray Santos",
+                "18:40": "MAT222 P01 - Márcia Guariente"
+            },
+            "total_alocacoes": 36,
+            "total_salas": 11
+        },
+        "89": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L104 (Lab Inf 5) (40)",
+            "horarios": {
+                "20:20": "13712 - Matemática - Acélio Rodrigues"
+            },
+            "total_alocacoes": 43,
+            "total_salas": 11
+        },
+        "90": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L105 (40)",
+            "horarios": {
+                "08:40": "10831 - Sociologia - Alberto Neto",
+                "10:20": "10831 - Química - Marcos Paulo",
+                "12:50": "Profª Aline - Química",
+                "17:00": "QUI560 T02 - Dilton Sodré",
+                "18:40": "13712 - Int. Ciência - Joseína Moutinho"
+            },
+            "total_alocacoes": 37,
+            "total_salas": 11
+        },
+        "91": {
+            "nomeArea": "Bloco L (Metalurgia)",
+            "nomeSala": "L106 (30)",
+            "horarios": {
+                "17:00": "MCO304 T01 - Moacir Bispo",
+                "18:40": "ADM518 T01 - Antonio Clodoaldo"
+            },
+            "total_alocacoes": 38,
+            "total_salas": 11
+        },
+        "92": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-001 - Lab. de NTS (20)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "93": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-102  (18)",
+            "horarios": {
+                "17:50": "5942 - SMS - Armando Tanimoto",
+                "20:20": "5942 - OQE - Patrícia Seixas"
+            },
+            "total_alocacoes": 65,
+            "total_salas": 18
+        },
+        "94": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-104 (8)",
+            "horarios": {
+                "18:40": "ADM507 T01 - Livia Modesto"
+            },
+            "total_alocacoes": 52,
+            "total_salas": 18
+        },
+        "95": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-113(S 01) (40)",
+            "horarios": {
+                "07:00": "2812 - Física - Alisson Costa",
+                "12:50": "Profº Marcus Vinícius e Profª Mônica",
+                "13:40": "8832 - Física - Victor Mancir",
+                "18:40": "ADM500 / ADM520 T03 - Fabio Rossetti.",
+                "20:20": "ADM506 T01 - Livia Modesto"
+            },
+            "total_alocacoes": 66,
+            "total_salas": 18
+        },
+        "96": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-114(S 02) (40)",
+            "horarios": {
+                "07:50": "9822 - Física - Elinoel Valverde",
+                "08:40": "8812 - Português - Manuela Peixinho",
+                "10:20": "8812 - Física - Ricardo Macêdo",
+                "12:50": "Turma:8813 profª Simone - química",
+                "15:20": "8832 - Filosofia - Daila Ataide",
+                "18:40": "MAT227 T02 - Luis Vasquez",
+                "20:20": "ADM500 / ADM520 T02 - Fábio Rossetti"
+            },
+            "total_alocacoes": 67,
+            "total_salas": 18
+        },
+        "97": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-115(S 03) (40)",
+            "horarios": {
+                "07:00": "9811 - Física - Igor Leonardo",
+                "10:20": "9811 - Química - Viviana Rocha",
+                "18:40": "5842 - IE (T) - Antônio Simões",
+                "20:20": "MAT223  T01 - Reinaldo Lima"
+            },
+            "total_alocacoes": 68,
+            "total_salas": 18
+        },
+        "98": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-116(S 04) (40)",
+            "horarios": {
+                "07:00": "8814 - História - Laís Viena",
+                "08:40": "8814 - Química (T) - Walter Gomes",
+                "09:30": "9822 - Português - José Gomes",
+                "12:50": "Profº Jorge Uzêda - História",
+                "15:20": "11831 - Física - Paulo Vicente",
+                "16:10": "11831 - Matemática - Antônio Magno",
+                "17:00": "5842 - Biologia - Taiara Aguiar",
+                "18:40": "MAT220 T01 - Dirceu Freitas",
+                "20:20": "5842 - Analisadores - Paulo César"
+            },
+            "total_alocacoes": 69,
+            "total_salas": 18
+        },
+        "99": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-117(S 05) (40)",
+            "horarios": {
+                "08:40": "9822 - Matemática - Vitor Rios",
+                "10:20": "9822 - Elet. Analógica - Josemir Alexandrino",
+                "17:00": "11831 - Química - Jainara Nascimento",
+                "20:20": "EDU154 T02 - Saulo Assis"
+            },
+            "total_alocacoes": 70,
+            "total_salas": 18
+        },
+        "100": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-118 LAMMC",
+            "horarios": {
+                "13:40": "5831 - Eletrônica Analógica - Letícia Lessa"
+            },
+            "total_alocacoes": 35,
+            "total_salas": 18
+        },
+        "101": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-119",
+            "horarios": {
+                "18:40": "ADM511 T01 - José Rubens"
+            },
+            "total_alocacoes": 57,
+            "total_salas": 18
+        },
+        "102": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-120 ITCP (30)",
+            "horarios": {
+                "09:30": "5822 - Equipamentos - Igor",
+                "15:20": "5831 - Física - José Claudio",
+                "18:40": "MAT227 T01 - Isabel Leite",
+                "20:20": "ADM512 T01 - Antonio Clodoaldo"
+            },
+            "total_alocacoes": 71,
+            "total_salas": 18
+        },
+        "103": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-203(S 06) (50)",
+            "horarios": {
+                "07:00": "11811 - Matemática - Cecília Almeida",
+                "08:40": "Profº Lucas Wolf - Química",
+                "13:40": "5832 - Português - Gisélia Evangelista",
+                "17:00": "5831 - Geografia - Nilton Santana",
+                "18:40": "RAD241 T01 - Guillermo Lopez",
+                "20:20": "MAT223 T03 - Ives Lima"
+            },
+            "total_alocacoes": 72,
+            "total_salas": 18
+        },
+        "104": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-204(S 07) (40)",
+            "horarios": {
+                "07:00": "11812 - Matemática - Silvia Costa",
+                "08:40": "11812 - Física - Fábio Paiva",
+                "10:20": "11812 - Português - Waleska Moura",
+                "13:40": "9832 - ELET POT - Carlos Aníbal",
+                "17:00": "RAD246 T01 - Guillermo Lopez",
+                "18:40": "ENG504 T01 - Carlos Suffredini",
+                "20:20": "MAT224 T01 - Isabel Leite"
+            },
+            "total_alocacoes": 73,
+            "total_salas": 18
+        },
+        "105": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-205(S 08) (40)",
+            "horarios": {
+                "07:00": "11813 - Física - Gilmar Melo",
+                "08:40": "11813 - Português - Fátima Santiago",
+                "10:20": "11813 - Matemática - Florêncio Filho",
+                "15:20": "6832 - Filosofia - Maria Saievicz",
+                "17:00": "LET100 T03 - José Gomes",
+                "18:40": "QUI515 T01 - Josanaide Teixeira",
+                "20:20": "QUI560 T01 - Dilton Sodré"
+            },
+            "total_alocacoes": 74,
+            "total_salas": 18
+        },
+        "106": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-206(S 09) (40)",
+            "horarios": {
+                "07:00": "2822 - Sociologia - Alberto Neto",
+                "08:40": "2822 - Física - Paulo Vicente",
+                "10:20": "2822 - Geografia - Zenildes Protázio",
+                "13:40": "Curso de Extensão UAB - Turma 1",
+                "15:20": "9832 - Educação Física - Micheli",
+                "18:40": "ENG505 T01 - Laio Damasceno",
+                "20:20": "ENG560 T01 - Luiz Antônio"
+            },
+            "total_alocacoes": 75,
+            "total_salas": 18
+        },
+        "107": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-207(S 10) (40)",
+            "horarios": {
+                "07:00": "2821 - Geografia - Ana Paula Anunciação",
+                "08:40": "2821 - Filosofia - Ronaldo Pimentel",
+                "10:20": "2821 - Física - George Luiz",
+                "18:40": "FIS212 T01 - Ronaldo Naziazeno",
+                "20:20": "FIS214 T01 - Ronaldo Naziazeno"
+            },
+            "total_alocacoes": 76,
+            "total_salas": 18
+        },
+        "108": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-208(S 11) (40)",
+            "horarios": {
+                "07:00": "5821 - Química - Aline Mendes",
+                "08:40": "5821 - Física - Elinoel Valverde",
+                "17:00": "9832 - Matemática - Caio Lima",
+                "18:40": "MAT224 T03 - Ives Lima",
+                "20:20": "MAT220 T02 - Dirceu Freitas"
+            },
+            "total_alocacoes": 77,
+            "total_salas": 18
+        },
+        "109": {
+            "nomeArea": "Bloco O (Antigo Pav 7)",
+            "nomeSala": "O-209(S 12) (60)",
+            "horarios": {
+                "07:00": "5822 - História - Antônio Lima",
+                "08:40": "5822 - Português - Gisélia Evangelista"
+            },
+            "total_alocacoes": 21,
+            "total_salas": 18
+        },
+        "110": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "PS-09 Artes (30)",
+            "horarios": {
+                "17:50": "Mestrado - PPGEM"
+            },
+            "total_alocacoes": 20,
+            "total_salas": 29
+        },
+        "111": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Sala de Artes Visuais",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "112": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Sala de Artes Visuais.2",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "113": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Sala de Artes Visuais.3",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "114": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Sala de Dança",
+            "horarios": {
+                "08:40": "9812 - Artes  - Guiomar Fontes"
+            },
+            "total_alocacoes": 6,
+            "total_salas": 29
+        },
+        "115": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Sala de Música",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "116": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Sala de Teatro",
+            "horarios": {
+                "18:40": "ENG406\tT01 - Alessandra Picanço",
+                "20:20": "9912 - ONQ - Carlos Alberto"
+            },
+            "total_alocacoes": 30,
+            "total_salas": 29
+        },
+        "117": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "P-018 (40)",
+            "horarios": {
+                "07:00": "10811 - Português - Fátima Santiago"
+            },
+            "total_alocacoes": 1,
+            "total_salas": 29
+        },
+        "118": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab de Geotec",
+            "horarios": {
+                "08:40": "10811 - GG (G2) - Patricia Santana",
+                "10:20": "10811 - GG (G1) - Patricia Santana"
+            },
+            "total_alocacoes": 11,
+            "total_salas": 29
+        },
+        "119": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "P001 - LabInfo EngQui",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "120": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. informática EE (20)",
+            "horarios": {
+                "18:40": "5922 - Eletrônica Digital (G1) - Vitor Leão"
+            },
+            "total_alocacoes": 22,
+            "total_salas": 29
+        },
+        "121": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 01 Eletrônica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "122": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 02 Eletrônica",
+            "horarios": {
+                "18:40": "9932 - MIRC - Antônio Almeida"
+            },
+            "total_alocacoes": 23,
+            "total_salas": 29
+        },
+        "123": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 03 Eletrônica",
+            "horarios": {
+                "08:40": "9831 - TRM I (G1) - César Rogério",
+                "10:20": "9831 - TRMI (G2) - César Rogério",
+                "20:20": "5922 - Eletrônica Digital (G2) - Vitor Leão"
+            },
+            "total_alocacoes": 31,
+            "total_salas": 29
+        },
+        "124": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 04 Eletrônica",
+            "horarios": {
+                "07:50": "9821 - Elet. Analógica (G1) - Diego Oliveira",
+                "18:40": "5942 - Eletrônica Digital (T) - Letícia Lessa"
+            },
+            "total_alocacoes": 24,
+            "total_salas": 29
+        },
+        "125": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 05 Eletrônica",
+            "horarios": {
+                "07:00": "9821 - Elet. Analógica - Diego Cardoso",
+                "20:20": "2932 - Eletrônica (T) - Diego Cardoso"
+            },
+            "total_alocacoes": 32,
+            "total_salas": 29
+        },
+        "126": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 06",
+            "horarios": {
+                "18:40": "9942 - TRT (P) - César Eduardo"
+            },
+            "total_alocacoes": 25,
+            "total_salas": 29
+        },
+        "127": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 07 Eletrônica",
+            "horarios": {
+                "07:50": "9821 - Elet. Analógica (G2) - Josemir Alexandrino",
+                "18:40": "2942 - Eltn. Ind - Carlos Henrique"
+            },
+            "total_alocacoes": 26,
+            "total_salas": 29
+        },
+        "128": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 08 Eletrônica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "129": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 09 Eletrônica",
+            "horarios": {
+                "18:40": "9922 - SMP (G1) - Raimundo Jorge"
+            },
+            "total_alocacoes": 27,
+            "total_salas": 29
+        },
+        "130": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 10 Eletrônica",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "131": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. 12",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "132": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "P-102 Lab de Autocad",
+            "horarios": {
+                "18:40": "ENG404 T01 - Maria das Graças"
+            },
+            "total_alocacoes": 28,
+            "total_salas": 29
+        },
+        "133": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "P-103 (Coordenação) (30)",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "134": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "DSPLAB",
+            "horarios": {
+                "18:40": "3922 - GH2 - Paula Mara"
+            },
+            "total_alocacoes": 29,
+            "total_salas": 29
+        },
+        "135": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab Turismo (P-104)",
+            "horarios": {
+                "08:40": "10811 - MIN (P1) - Adriana Sanches",
+                "13:40": "EVE108 T01 - Glauria Janaina",
+                "17:00": "EVE107 T01 - Paula Mara"
+            },
+            "total_alocacoes": 19,
+            "total_salas": 29
+        },
+        "136": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. de Geoproc",
+            "horarios": {
+                "08:40": "10821 - PSE (G1) - Leanize Teixeira",
+                "15:20": "10811 - MIN (P4) - Adriana Sanches"
+            },
+            "total_alocacoes": 18,
+            "total_salas": 29
+        },
+        "137": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. de Mineralogia",
+            "horarios": {
+                "10:20": "10811 - MIN (P2) -  Adriana Sanches",
+                "13:40": "10811 - MIN (P3) -  Adriana Sanches"
+            },
+            "total_alocacoes": 16,
+            "total_salas": 29
+        },
+        "138": {
+            "nomeArea": "Bloco P  (Antigo Pav 8)",
+            "nomeSala": "Lab. de Petrog",
+            "horarios": {
+                "07:00": "10821 - PSE (T) - Leanize Teixeira",
+                "10:20": "10841 - HIDRO - Leanize Texeira",
+                "13:40": "10821 - PSE (G2) - Leanize"
+            },
+            "total_alocacoes": 17,
+            "total_salas": 29
+        },
+        "139": {
+            "nomeArea": "Labs Automação",
+            "nomeSala": "Lab de Automação",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "140": {
+            "nomeArea": "Labs Automação",
+            "nomeSala": "Lab de Controle I",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "141": {
+            "nomeArea": "Labs Automação",
+            "nomeSala": "Lab de Controle II",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "142": {
+            "nomeArea": "Labs Automação",
+            "nomeSala": "Lab de EFC",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "143": {
+            "nomeArea": "Labs Automação",
+            "nomeSala": "Lab de Equipamentos",
+            "horarios": {
+                "17:00": "5841 - IE (T) - Antonio Simões",
+                "18:40": "5932 - Gestão da Manut. - Paulo César",
+                "20:20": "5932 - Projetos de Automação - Antônio Simões"
+            },
+            "total_alocacoes": 3,
+            "total_salas": 7
+        },
+        "144": {
+            "nomeArea": "Labs Automação",
+            "nomeSala": "Lab de MVI",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "145": {
+            "nomeArea": "Labs Automação",
+            "nomeSala": "Lab Pró-funcionário",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "146": {
+            "nomeArea": "Labs Informática (1 - 4)",
+            "nomeSala": "Lab. 1 (20)",
+            "horarios": {
+                "13:40": "ESTUDOS ADS",
+                "15:20": "1813 - Informática - Jowaner Araújo",
+                "20:20": "INF022 P01 - Renato Novais"
+            },
+            "total_alocacoes": 13,
+            "total_salas": 4
+        },
+        "147": {
+            "nomeArea": "Labs Informática (1 - 4)",
+            "nomeSala": "Lab. 2 (40)",
+            "horarios": {
+                "07:00": "9812 - Informática -  Viviane Góes",
+                "08:40": "8811 - Informática - Viviane Góes",
+                "10:20": "8813 - Informática - Viviane Góes",
+                "17:00": "1812 - Informática - Jowaner Araújo",
+                "18:40": "INF029 P01 - Renato Lima",
+                "20:20": "INF031 T01 - Romilson Sampaio"
+            },
+            "total_alocacoes": 14,
+            "total_salas": 4
+        },
+        "148": {
+            "nomeArea": "Labs Informática (1 - 4)",
+            "nomeSala": "Lab. 3 (40)",
+            "horarios": {
+                "17:00": "INF009 P01 - Flávia Nascimento",
+                "18:40": "INF032 T04 - Flávia Nascimento"
+            },
+            "total_alocacoes": 11,
+            "total_salas": 4
+        },
+        "149": {
+            "nomeArea": "Labs Informática (1 - 4)",
+            "nomeSala": "Lab. 4 (40)",
+            "horarios": {
+                "13:40": "9841 - IEC - Marcelo Diniz (Atividade)",
+                "17:00": "INF027 P02 - Romilson Sampaio",
+                "18:40": "INF024 P02 - André Ferreira"
+            },
+            "total_alocacoes": 12,
+            "total_salas": 4
+        },
+        "150": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 04",
+            "horarios": {
+                "07:00": "8813 - Quimica (G1) - Tereza Cristiane",
+                "09:30": "8814 - Quimica (G1) - Simone Lima",
+                "20:20": "13732 - Química - Joseína Moutinho"
+            },
+            "total_alocacoes": 11,
+            "total_salas": 8
+        },
+        "151": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 05",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "152": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 06",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "153": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 07",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        },
+        "154": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 08",
+            "horarios": {
+                "07:00": "8813 - Quimica (G2) - Simone Lima",
+                "09:30": "8814 - Quimica (G2) - Walter Gomes"
+            },
+            "total_alocacoes": 5,
+            "total_salas": 8
+        },
+        "155": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 09",
+            "horarios": {
+                "13:40": "8833 - Química Analítica (G2) - Mônica Cunha",
+                "16:10": "8833 - Química Analítica (G1) - Mônica Cunha"
+            },
+            "total_alocacoes": 9,
+            "total_salas": 8
+        },
+        "156": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 10",
+            "horarios": {
+                "07:00": "8813 - Quimica (G3) - Vitória Soares",
+                "09:30": "8814 - Quimica (G3) - Vitória Soares"
+            },
+            "total_alocacoes": 6,
+            "total_salas": 8
+        },
+        "157": {
+            "nomeArea": "Labs Química",
+            "nomeSala": "LAB 11",
+            "horarios": {
+                "13:40": "8833 - Química Orgânica II (G1) - Marcus Bahia",
+                "16:10": "8833 - Química Orgânica II (G2) - Marcus Bahia"
+            },
+            "total_alocacoes": 10,
+            "total_salas": 8
+        },
+        "158": {
+            "nomeArea": "LAFIR",
+            "nomeSala": "LAB. 1",
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
+        }
+    },
+    "areas_nomes": [
+        "",
+        "Bloco A (Prédio Adm.)",
+        "Bloco B (Antigo Pav 1)",
+        "Bloco D (Antigo Pav 2)",
+        "Bloco E (Eletrotécnica)",
+        "Bloco F (Física)",
+        "Bloco G (Canteiro de Obras)",
+        "Bloco H (Mecânica)",
+        "Bloco K (Biblioteca)",
+        "Bloco L (Metalurgia)",
+        "Bloco O (Antigo Pav 7)",
+        "Bloco P  (Antigo Pav 8)",
+        "Labs Automação",
+        "Labs Informática (1 - 4)",
+        "Labs Química",
+        "LAFIR"
+    ]
+}

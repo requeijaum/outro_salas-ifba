@@ -48,7 +48,11 @@
                     </div>
                 </div>
             
-                <!-- Search forma - not form, because I don't want to submit !!! -->
+                <!--    Search forma - not form, because I don't want to submit !!!
+                        preciso executar as paradas quando o usuário parar de digitar
+                        https://schier.co/blog/wait-for-user-to-stop-typing-using-javascript
+                -->
+
                 <div id="search_row" class="row">
 
                     <form id="search_bar" class="form-inline" action="#">
@@ -70,9 +74,9 @@
                                 </button>
                                 <div class="dropdown-menu">
                                     <div class="dropdown-header"><b>Buscar por:</b></div> 
-                                    <a onclick="opcoes=escolheModoBusca(this, opcoes);" name="nomeAula" id="nomeAula_drop" class="dropdown-item" href="#">Nome da Disciplina/Professor/Turma</a>
-                                    <a onclick="opcoes=escolheModoBusca(this, opcoes);" name="nomeSala" id="nomeSala_drop" class="dropdown-item" href="#">Nome da Sala</a>
-                                    <a onclick="opcoes=escolheModoBusca(this, opcoes);" name="nomeArea" id="nomeArea_drop" class="dropdown-item" href="#">Nome do Pavilhão/Prédio</a>
+                                    <a onclick="opcoes.nomeAula = true  ; opcoes.nomeSala = false ; opcoes.nomeArea = false;"  name="nomeAula" id="nomeAula_drop" class="dropdown-item" href="#">Nome da Disciplina/Professor/Turma</a>
+                                    <a onclick="opcoes.nomeAula = false ; opcoes.nomeSala = true  ; opcoes.nomeArea = false;"  name="nomeSala" id="nomeSala_drop" class="dropdown-item" href="#">Nome da Sala</a>
+                                    <a onclick="opcoes.nomeAula = false ; opcoes.nomeSala = false ; opcoes.nomeArea = true;"   name="nomeArea" id="nomeArea_drop" class="dropdown-item" href="#">Nome do Pavilhão/Prédio</a>
                                     <br>
                                     <div class="dropdown-header"><b>Escolher data:</b></div>
                                     <a onclick="setarDataBusca(this)" id="setarDataBusca" class="dropdown-item" href="#">Abrir Calendário</a>
@@ -88,6 +92,12 @@
                 <div id="qual_o_dia" class="col-*-12">
                     <small>
                         <p id="aviso">Mostrando informações do dia <span id="dia_a_mostrar"></span>.</p>
+                    </small>
+                </div>
+
+                <div id="search_results" class="col-*-12">
+                    <small>
+                        <p id="search_results_inner"></p>
                     </small>
                 </div>
 

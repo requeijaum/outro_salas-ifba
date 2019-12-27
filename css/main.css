@@ -81,7 +81,7 @@ html {
     margin-right: auto;
   }
   
-  #qual_o_dia {
+  #qual_o_dia , #search_results {
     text-align: center;
     margin-left: auto;
     margin-right: auto;

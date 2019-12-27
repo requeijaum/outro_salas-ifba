@@ -39,10 +39,15 @@ function insereMsgAlerta(alert, msg){
 
 function constructList(nomeAula, nomeSala, nomeArea, dados){
     
+    console.log('constructList( nomeAula: "'+nomeAula+'", nomeSala: "'+nomeSala+'", nomeArea: "'+nomeArea+'", dados: {}) ;');
+
     // limpar tudo, né?
     $('#the_list').html("");
 
     // construir a porra toda pq sim... sem filtrar
+
+    //$("#search_results").css("display","none");
+
 
     if ((nomeAula == "") && (nomeSala == "") && (nomeArea == "")) {
 
@@ -50,6 +55,8 @@ function constructList(nomeAula, nomeSala, nomeArea, dados){
         num_salas = Object.keys(dados.dados).length - 1 ;
         console.log('constructList(): mostrando todas as ' + num_salas + ' salas!'); 
         //  ^^^ removi a chave "id"
+        $("#search_results_inner").html("Mostrando todas as salas com aula!");
+
 
         for (sala in dados.dados) { // in ou of ?
             // precisa ser numérico !!!
@@ -89,25 +96,211 @@ function constructList(nomeAula, nomeSala, nomeArea, dados){
 
     if ((nomeAula != "") && (nomeSala == "") && (nomeArea == "")) {
 
-        // procurar pelo nome da aula
-        num_salas = Object.keys(dados.dados).length - 1 ;
-        console.log('constructList(): mostrando todas as ' + num_salas + ' salas!'); 
+        // mostrar tudo !!!
+        //num_salas = Object.keys(dados.dados).length - 1 ;
+        // contar depois
+
+        let tempList = {}; // criar essa lista com os resultados encontrados ! - contar a partir disso, né?
+        let tempCount = 0;
+
+        console.log('constructList(): construindo lista por nomeAula'); 
         //  ^^^ removi a chave "id"
 
         for (sala in dados.dados) { // in ou of ?
             // precisa ser numérico !!!
-            if (isFinite(sala) && (nomeAula in dados.dados[sala].horarios)) {
+            if (isFinite(sala)) {
                 obj = dados.dados[sala]
-                // console.log("constructList(): iterando sala #" + sala + "...")
-                // console.log(obj);
+                //console.log("constructList(): iterando sala #" + sala + "...")
+                //console.log(obj);
 
-                // preciso de alguma condicional pra mostrar somente as salas com dados.dados[sala].horarios == nomeAula
-                for (horario in dados.dados[sala].horarios) {
-                    console.log(horario);
-                    if (horario == nomeSala) {
-                        console.log("horario == nomeSala!!!");
+                if (obj) {
 
-                        htmlToAppend = '<li id="sala' + sala + 
+                    for (horario in obj.horarios) {
+                        let tempSala = obj.horarios[horario];
+                        //console.log(tempSala); // acessar o valor da chave... "18:40" : "MAT218 taltaltal"
+
+                        if (tempSala.indexOf(nomeAula) !== -1 ) {   // nomeAula in tempSala) { // é o nome da aula válido!
+                                                                    // "Hello World".indexOf("Hello") !== -1
+
+                            console.log("constructList(): nomeAula in tempSala!!! adicionando obj à tempList");
+                            Object.assign(tempList, obj);
+                            tempCount += 1;
+
+                            htmlToAppend = '\
+                            <li id="sala' + sala + 
+                            '" class="list-group-item"> <div class="row"><div class="sala_info col-*-6 push-left"> ' 
+                            + obj["nomeSala"] + '<br> <small>' + obj["nomeArea"] + '</small>\
+                            </div>\
+                            <div class="sala_info_extra col-*-6 push-right">\
+                            <ul class="lista_aulas"></ul>\
+                            </div></div>\
+                            </li>';
+                            
+                            $("#the_list").append(htmlToAppend);
+                            
+                            
+                            
+
+                        }
+
+                        
+
+
+                    }
+
+
+                    // esconder sala caso não tenha horarios?
+                    if (Object.keys(obj.horarios).length == 0){
+                        console.log("A sala #" + sala + " - " + obj["nomeSala"] + " - não tem horários...");
+                        $("#sala"+sala).css("display","none");
+                    
+                    }
+                    
+                    // $("#sala"+sala+" .lista_aulas").append("<li>Teste 123</li>");
+                    for (horario in obj.horarios) {
+                        $("#sala"+sala+" .lista_aulas").append("<li><b>" + horario + "</b> - " 
+                        + obj.horarios[horario] + "</li>"); // pode estar rolando repetição aqui
+
+                    }
+                    
+                }
+                
+
+
+
+               
+            }
+        }
+
+        $("#search_results_inner").html(tempCount + " resultados encontrados!");
+        $("#search_results").css("display","block");
+
+
+    } 
+
+
+    if ((nomeAula == "") && (nomeSala != "") && (nomeArea == "")) {
+
+        // mostrar tudo !!!
+        //num_salas = Object.keys(dados.dados).length - 1 ;
+        // contar depois
+
+        let tempList = {}; // criar essa lista com os resultados encontrados ! - contar a partir disso, né?
+        let tempCount = 0;
+
+        console.log('constructList(): construindo lista por nomeSala'); 
+        //  ^^^ removi a chave "id"
+
+        for (sala in dados.dados) { // in ou of ?
+            // precisa ser numérico !!!
+            if (isFinite(sala)) {
+                obj = dados.dados[sala]
+                //console.log("constructList(): iterando sala #" + sala + "...")
+                //console.log(obj);
+
+                if (obj) {
+
+                    //for (tempSala in obj.nomeSala) {
+
+                    let tempSala = obj.nomeSala ;
+
+                    //console.log(tempSala); // acessar o valor da chave... "18:40" : "MAT218 taltaltal"
+
+                    if (tempSala.indexOf(nomeSala) !== -1 ) {   // nomeAula in tempSala) { // é o nome da aula válido!
+                                                                // "Hello World".indexOf("Hello") !== -1
+
+                        console.log("constructList(): nomeSala in tempSala!!! adicionando obj à tempList");
+                        Object.assign(tempList, obj);
+                        tempCount += 1;
+
+                        htmlToAppend = '\
+                        <li id="sala' + sala + 
+                        '" class="list-group-item"> <div class="row"><div class="sala_info col-*-6 push-left"> ' 
+                        + obj["nomeSala"] + '<br> <small>' + obj["nomeArea"] + '</small>\
+                        </div>\
+                        <div class="sala_info_extra col-*-6 push-right">\
+                        <ul class="lista_aulas"></ul>\
+                        </div></div>\
+                        </li>';
+                        
+                        $("#the_list").append(htmlToAppend);
+                        
+                        
+                        
+
+                    }
+
+                    // esconder sala caso não tenha horarios?
+                    if (Object.keys(obj.horarios).length == 0){
+                        console.log("A sala #" + sala + " - " + obj["nomeSala"] + " - não tem horários...");
+                        $("#sala"+sala).css("display","none");
+                    
+                    }
+                    
+                    // $("#sala"+sala+" .lista_aulas").append("<li>Teste 123</li>");
+                    for (horario in obj.horarios) {
+                        $("#sala"+sala+" .lista_aulas").append("<li><b>" + horario + "</b> - " 
+                        + obj.horarios[horario] + "</li>");
+
+                    }
+                    
+
+
+                    //}
+
+                }
+                
+
+
+
+               
+            }
+        }
+
+        $("#search_results_inner").html(tempCount + " resultados encontrados!");
+        $("#search_results").css("display","block");
+
+
+    } 
+
+
+    if ((nomeAula == "") && (nomeSala == "") && (nomeArea != "")) {
+
+        // mostrar tudo !!!
+        //num_salas = Object.keys(dados.dados).length - 1 ;
+        // contar depois
+
+        let tempList = {}; // criar essa lista com os resultados encontrados ! - contar a partir disso, né?
+        let tempCount = 0;
+
+        console.log('constructList(): construindo lista por nomeArea'); 
+        //  ^^^ removi a chave "id"
+
+        for (sala in dados.dados) { // in ou of ?
+            // precisa ser numérico !!!
+            if (isFinite(sala)) {
+                obj = dados.dados[sala]
+                //console.log("constructList(): iterando sala #" + sala + "...")
+                //console.log(obj);
+
+                if (obj) {
+
+                    //for (tempSala in obj.nomeSala) {
+
+                    let tempArea = obj.nomeArea ;
+
+                    //console.log(tempSala); // acessar o valor da chave... "18:40" : "MAT218 taltaltal"
+
+                    if (tempArea.indexOf(nomeArea) !== -1 ) {   // nomeAula in tempSala) { // é o nome da aula válido!
+                                                                // "Hello World".indexOf("Hello") !== -1
+
+                        console.log("constructList(): nomeArea in tempArea!!! adicionando obj à tempList");
+                        Object.assign(tempList, obj);
+                        // tempCount = Object.keys(tempList).length ; // pq deu 4 com "Bloco A" ???
+                        tempCount += 1 ;
+
+                        htmlToAppend = '\
+                        <li id="sala' + sala + 
                         '" class="list-group-item"> <div class="row"><div class="sala_info col-*-6 push-left"> ' 
                         + obj["nomeSala"] + '<br> <small>' + obj["nomeArea"] + '</small>\
                         </div>\
@@ -122,23 +315,40 @@ function constructList(nomeAula, nomeSala, nomeArea, dados){
                         if (Object.keys(obj.horarios).length == 0){
                             console.log("A sala #" + sala + " - " + obj["nomeSala"] + " - não tem horários...");
                             $("#sala"+sala).css("display","none");
+                            tempCount -= 1; // preciso reduzir as salas vazias...
                         
                         }
+                                                
+                        
 
-                        // $("#sala"+sala+" .lista_aulas").append("<li>Teste 123</li>");
-                        for (horario in obj.horarios) {
-                            $("#sala"+sala+" .lista_aulas").append("<li><b>" + horario + "</b> - " 
-                            + obj.horarios[horario] + "</li>");
-
-                        }
                     }
+
+
+                    // $("#sala"+sala+" .lista_aulas").append("<li>Teste 123</li>");
+                    for (horario in obj.horarios) {
+                        $("#sala"+sala+" .lista_aulas").append("<li><b>" + horario + "</b> - " 
+                        + obj.horarios[horario] + "</li>");
+
+                    }
+                    
+
+
+                    //}
+
                 }
                 
+
+
+
+               
             }
         }
 
-    
-    }
+        $("#search_results_inner").html(tempCount + " resultados encontrados!");
+        $("#search_results").css("display","block");
+
+
+    } 
 
 }
 
@@ -248,10 +458,10 @@ var opcoes = {
 };
 
 function verificarDropdown(data, opcoes){
-    //console.log(data);
+    console.log(data);
+    
+    console.log("verificarDropdown(): segue o estado de 'var opcoes'...hmm...");
     console.log(opcoes);
-
-    console.log("verificarDropdown(): hmm...");
     
     if(opcoes.nomeAula){
         $('#nomeAula_drop').addClass('active');
@@ -267,7 +477,7 @@ function verificarDropdown(data, opcoes){
 
 }
 
-
+/*
 function escolheModoBusca(data, opcoes) {   // tá dando alguma merda com Promise indo e voltando como fullfiled...
     
     var opcoes = opcoes ;
@@ -297,8 +507,10 @@ function escolheModoBusca(data, opcoes) {   // tá dando alguma merda com Promis
             
             //return opcoesDefinitivas;
             
-            if(typeof(opcoesDefinitivas) == typeof(Promise))  return opcoesDefinitivas.value ;
-            if(typeof(opcoesDefinitivas) == typeof(Object))   return opcoesDefinitivas ;
+            // tratar o caso da Promise <fulfilled> via verificarDropdown()...
+            //if(typeof(opcoesDefinitivas) == typeof(Promise))  return opcoesDefinitivas.value ;
+            //if(typeof(opcoesDefinitivas) == typeof(Object))   return opcoesDefinitivas ;
+            return opcoesDefinitivas;
 
         }
     
@@ -309,6 +521,7 @@ function escolheModoBusca(data, opcoes) {   // tá dando alguma merda com Promis
 
 }
 
+*/
 
 // vamos instanciar o Tempus Dominus para disparar sempre que clicar na parte da escolha de data
 function setarDataBusca(data){
