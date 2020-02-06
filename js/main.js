@@ -394,9 +394,9 @@ $(document).ready(function () {     // refatorar as coisas aqui pra rodar em fun
     // qual a data de hoje?
     var date = new Date();
 
-    dia = date.getDate(); // de 1 a 31
-    mes = date.getMonth() + 1; // porra de 0 a 11 !?
-    ano = date.getFullYear(); // 4 dígitos
+    dia = (date.getDate()).toLocaleString('en-US', {minimumIntegerDigits: 2, useGrouping:false})     ; // de 1 a 31
+    mes = (date.getMonth() + 1).toLocaleString('en-US', {minimumIntegerDigits: 2, useGrouping:false}); // porra de 0 a 11 !?
+    ano = (date.getFullYear()).toLocaleString('en-US', {minimumIntegerDigits: 4, useGrouping:false}) ; // 4 dígitos
 
     console.log(date);
 
@@ -404,7 +404,9 @@ $(document).ready(function () {     // refatorar as coisas aqui pra rodar em fun
     dataEspecificada = hoje;  // por enquanto...
     //dataEspecificada = "20191219"; // debug...
 
-     
+    init(dataEspecificada);  // verificar assync
+
+
 });
 
 
@@ -539,6 +541,11 @@ var ed = {
 
 $('#datetimepicker1').datetimepicker;
 
+function init(dataEspecificada){
+    console.log("init(): dataEspecificada = " + dataEspecificada);
+    carregarDados(dataEspecificada); // verificar...
+}
+
 function mudouData(){ //, capturedData) {
 
     console.log("mudouData(): rodando...");
@@ -547,7 +554,7 @@ function mudouData(){ //, capturedData) {
     //console.log(datinha);
 
     // rodar a funcao q constroi a porra toda com dados a partir de um JSON
-    carregarDados(datinha._i, capturedData);
+    carregarDados(datinha._i, capturedData); // eu realmente to usando capturedData ???
     
     return datinha._i;  // usar durante como "on" handler
 
@@ -582,9 +589,15 @@ function carregarDados(dataEspecificada) {
 
     // let capturedData = null;
     let arrayData = dataEspecificada.split("/");
-    let dia=arrayData[0]; let mes=arrayData[1]; let ano=arrayData[2];
+    console.log(arrayData);
 
-    dataEspecificada = ""+ano + mes + dia;
+    if (arrayData.length == 1){ // significa que a data veio do init... vamos usar ela puramente
+        dataEspecificada = arrayData[0];
+    
+    } else {
+        let dia=arrayData[0]; let mes=arrayData[1]; let ano=arrayData[2];
+        dataEspecificada = ""+ano + mes + dia;    
+    } 
 
     console.log("carregarDados('" + dataEspecificada + "')");
     // destrinchar data com String.split("/")

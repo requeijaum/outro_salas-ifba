@@ -37,9 +37,11 @@
         "3": {
             "nomeArea": "Bloco A (Prédio Adm.)",
             "nomeSala": "A-308 (40)",
-            "horarios": {},
-            "total_alocacoes": 0,
-            "total_salas": 0
+            "horarios": {
+                "08:40": "Formação de professores"
+            },
+            "total_alocacoes": 1,
+            "total_salas": 4
         },
         "4": {
             "nomeArea": "Bloco A (Prédio Adm.)",

@@ -1263,11 +1263,9 @@
         "110": {
             "nomeArea": "Bloco P  (Antigo Pav 8)",
             "nomeSala": "PS-09 Artes (30)",
-            "horarios": {
-                "18:40": "ENG423 T01 - Antonio Aguiar"
-            },
-            "total_alocacoes": 15,
-            "total_salas": 29
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
         },
         "111": {
             "nomeArea": "Bloco P  (Antigo Pav 8)",
@@ -1331,7 +1329,7 @@
                 "18:40": "RAD229 T01 - Isabelle Pinheiro",
                 "20:20": "RAD235 T01 - Isabelle Pinheiro"
             },
-            "total_alocacoes": 26,
+            "total_alocacoes": 25,
             "total_salas": 29
         },
         "118": {
@@ -1362,7 +1360,7 @@
                 "18:40": "9912 - ISD (G1) - Vitor Leão",
                 "20:20": "9912 - ISD (G2) - Vitor Leão"
             },
-            "total_alocacoes": 27,
+            "total_alocacoes": 26,
             "total_salas": 29
         },
         "122": {
@@ -1372,7 +1370,7 @@
                 "18:40": "2932 - Eletrônica (G2) - Letícia Lessa",
                 "20:20": "2932 - Eletrônica (G1) - Letícia Lessa"
             },
-            "total_alocacoes": 28,
+            "total_alocacoes": 27,
             "total_salas": 29
         },
         "123": {
@@ -1381,7 +1379,7 @@
             "horarios": {
                 "18:40": "9932 - RTE - Carlos Henrique"
             },
-            "total_alocacoes": 19,
+            "total_alocacoes": 18,
             "total_salas": 29
         },
         "124": {
@@ -1390,7 +1388,7 @@
             "horarios": {
                 "18:40": "9942 - TRT (T) - Cleber Sena"
             },
-            "total_alocacoes": 20,
+            "total_alocacoes": 19,
             "total_salas": 29
         },
         "125": {
@@ -1399,7 +1397,7 @@
             "horarios": {
                 "18:40": "5932 - Eletrônica Analógica (T) - Thales Faria"
             },
-            "total_alocacoes": 21,
+            "total_alocacoes": 20,
             "total_salas": 29
         },
         "126": {
@@ -1415,7 +1413,7 @@
             "horarios": {
                 "20:20": "9912 - PE (G1) - Eduardo Allatta"
             },
-            "total_alocacoes": 29,
+            "total_alocacoes": 28,
             "total_salas": 29
         },
         "128": {
@@ -1426,7 +1424,7 @@
                 "17:00": "2842 - Eletrônica (G1) - Thales Faria",
                 "20:20": "9922 - ELET - Antônio Santos"
             },
-            "total_alocacoes": 30,
+            "total_alocacoes": 29,
             "total_salas": 29
         },
         "129": {
@@ -1435,7 +1433,7 @@
             "horarios": {
                 "18:40": "9912 - PE (G2) - Eduardo Allatta"
             },
-            "total_alocacoes": 22,
+            "total_alocacoes": 21,
             "total_salas": 29
         },
         "130": {
@@ -1444,7 +1442,7 @@
             "horarios": {
                 "18:40": "9922 - SMP - Raimundo Jorge"
             },
-            "total_alocacoes": 23,
+            "total_alocacoes": 22,
             "total_salas": 29
         },
         "131": {
@@ -1453,7 +1451,7 @@
             "horarios": {
                 "20:20": "3912 - Informática - Paulo Brito"
             },
-            "total_alocacoes": 31,
+            "total_alocacoes": 30,
             "total_salas": 29
         },
         "132": {
@@ -1471,7 +1469,7 @@
                 "18:40": "ENG463 T01 - Rodrigo Cavalcante",
                 "20:20": "3922 - MKT - Liz Cerqueira"
             },
-            "total_alocacoes": 32,
+            "total_alocacoes": 31,
             "total_salas": 29
         },
         "134": {
@@ -1489,7 +1487,7 @@
                 "17:00": "EVE117 T01 - Biagio Avena",
                 "18:40": "3932 - GAB - Kátia"
             },
-            "total_alocacoes": 25,
+            "total_alocacoes": 24,
             "total_salas": 29
         },
         "136": {

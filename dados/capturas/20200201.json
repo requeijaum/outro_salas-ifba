@@ -165,7 +165,7 @@
             "horarios": {
                 "08:40": "13742 - Topografia - Raimundo César"
             },
-            "total_alocacoes": 6,
+            "total_alocacoes": 8,
             "total_salas": 21
         },
         "21": {
@@ -175,7 +175,7 @@
                 "07:00": "13742 - Mat Constr - Silvio Santos",
                 "08:40": "13752 - Mecânica Solos - Silvio Raimundo"
             },
-            "total_alocacoes": 7,
+            "total_alocacoes": 9,
             "total_salas": 21
         },
         "22": {
@@ -199,7 +199,7 @@
                 "07:00": "13732 - Geografia - Zenildes Protázio",
                 "08:40": "13732 - Física - Rafael Nascimento"
             },
-            "total_alocacoes": 8,
+            "total_alocacoes": 10,
             "total_salas": 21
         },
         "25": {
@@ -209,16 +209,17 @@
                 "08:40": "ENG426 T01 - Juarez da Silva",
                 "10:20": "2922 - ONQ - Fábio Rosseti"
             },
-            "total_alocacoes": 12,
+            "total_alocacoes": 14,
             "total_salas": 21
         },
         "26": {
             "nomeArea": "Bloco D (Antigo Pav 2)",
             "nomeSala": "D-106(S 03) (40)",
             "horarios": {
+                "07:50": "Turma: 8821 e 8823 profª Cleide- química",
                 "10:20": "ENG448 - Leonardo Notz"
             },
-            "total_alocacoes": 13,
+            "total_alocacoes": 15,
             "total_salas": 21
         },
         "27": {
@@ -226,9 +227,10 @@
             "nomeSala": "D-107(S 04) (40)",
             "horarios": {
                 "07:00": "ENG407 T01 - Josélia Cavalcante",
+                "07:50": "Turmas: 8821 e 8823 profª Cleide - química",
                 "08:40": "2922 - Eletrotécnica II - Rafael Santana"
             },
-            "total_alocacoes": 10,
+            "total_alocacoes": 12,
             "total_salas": 21
         },
         "28": {
@@ -237,7 +239,7 @@
             "horarios": {
                 "08:40": "ENG406\tT01 - Alessandra Picanço"
             },
-            "total_alocacoes": 11,
+            "total_alocacoes": 13,
             "total_salas": 21
         },
         "29": {

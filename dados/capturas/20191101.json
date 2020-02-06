@@ -671,7 +671,7 @@
             "horarios": {
                 "13:40": "11832 - PAC (G1) - Luana Orlandini",
                 "15:20": "11832 - PAC (G2) - Luana Orlandini",
-                "20:20": "MCO302 T01 - Moacir Bispo"
+                "20:20": "MCO302 T01 - Pedro Cunha Lima"
             },
             "total_alocacoes": 30,
             "total_salas": 15
@@ -773,7 +773,7 @@
             "nomeSala": "Sala de Fresagem/Torneari (40)",
             "horarios": {
                 "07:00": "6812 - Man I - Marcos César",
-                "17:00": "ENG311 - T01 - Luana Orlandini",
+                "17:00": "ENG311 - T01 - Pedro Cunha Lima",
                 "18:40": "ENG324 - Sylvio Laurante",
                 "20:20": "11841 - Confort. (G1) - Luanda Kivia"
             },
@@ -1497,7 +1497,7 @@
             "nomeArea": "Bloco P  (Antigo Pav 8)",
             "nomeSala": "Lab. de Petrog",
             "horarios": {
-                "07:00": "10821 - PSE (T) - Leanize Teixeira",
+                "07:00": "*",
                 "10:20": "10841 - HIDRO - Leanize Texeira",
                 "13:40": "10821 - PSE (G2) - Leanize"
             },
