@@ -946,7 +946,7 @@
                 "18:40": "ENG433 T01 - Ivan Costa",
                 "20:20": "Monitoria de Química (Geral / Inorgânica) - Jefferson Ribeiro"
             },
-            "total_alocacoes": 45,
+            "total_alocacoes": 44,
             "total_salas": 11
         },
         "82": {
@@ -961,7 +961,7 @@
                 "18:40": "3932 - Espanhol - Dayana Karla",
                 "20:20": "3912 - Espanhol - Dayana Karla"
             },
-            "total_alocacoes": 46,
+            "total_alocacoes": 45,
             "total_salas": 11
         },
         "83": {
@@ -975,7 +975,7 @@
                 "15:20": "Centro de Idiomas T01 - Lucélia Alcântara",
                 "20:20": "LET105 T01 - Itamaray Nascimento"
             },
-            "total_alocacoes": 47,
+            "total_alocacoes": 46,
             "total_salas": 11
         },
         "84": {
@@ -988,11 +988,9 @@
         "85": {
             "nomeArea": "Bloco L (Metalurgia)",
             "nomeSala": "L-010 LAB ENG. QUÍMICA (20)",
-            "horarios": {
-                "14:30": "Monitoria de Lógica de Programação"
-            },
-            "total_alocacoes": 24,
-            "total_salas": 11
+            "horarios": {},
+            "total_alocacoes": 0,
+            "total_salas": 0
         },
         "86": {
             "nomeArea": "Bloco L (Metalurgia)",
@@ -1001,13 +999,13 @@
                 "07:00": "Reserva - Realocação de Turmas",
                 "08:40": "8822 - Física - Ricardo Macêdo",
                 "10:20": "11832 - Biologia - Antheogenes Silva",
-                "13:40": "11832 - Inglês (G2) - Maurício Neto",
+                "14:30": "Monitoria de Lógica de Programação",
                 "15:20": "11832 - Filosofia - Ana Lívia Braga",
                 "17:00": "11832 - Sociologia - Naiaranize Pinheiro",
                 "18:40": "ADM521 T01 - Michele Nunes",
                 "20:20": "MAT237 T01 - Fellipe Leite"
             },
-            "total_alocacoes": 48,
+            "total_alocacoes": 47,
             "total_salas": 11
         },
         "87": {
@@ -1023,7 +1021,7 @@
                 "18:40": "INF028 P01 - Antonio Carlos",
                 "20:20": "EDU159 T01 - Tereza Cristina"
             },
-            "total_alocacoes": 49,
+            "total_alocacoes": 48,
             "total_salas": 11
         },
         "88": {
@@ -1037,7 +1035,7 @@
                 "18:40": "QUI511 T01 - Carlos Daniel",
                 "20:20": "HUM102 T01 - Samir Perez"
             },
-            "total_alocacoes": 50,
+            "total_alocacoes": 49,
             "total_salas": 11
         },
         "89": {
@@ -1049,7 +1047,7 @@
                 "18:40": "INF014 T01 - Simone Amorim",
                 "20:20": "INF010 T01 - Pablo Vieira"
             },
-            "total_alocacoes": 51,
+            "total_alocacoes": 50,
             "total_salas": 11
         },
         "90": {
@@ -1063,7 +1061,7 @@
                 "18:40": "HUM102 T02 - Samir Perez",
                 "20:20": "INF032 T01 - Simone Amorim"
             },
-            "total_alocacoes": 52,
+            "total_alocacoes": 51,
             "total_salas": 11
         },
         "91": {
@@ -1076,7 +1074,7 @@
                 "18:40": "13712 - Matemática - Acélio Rodrigues",
                 "20:20": "13712 - Português - Wallace Matos"
             },
-            "total_alocacoes": 53,
+            "total_alocacoes": 52,
             "total_salas": 11
         },
         "92": {

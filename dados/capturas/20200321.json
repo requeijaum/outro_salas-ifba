@@ -1135,7 +1135,7 @@
             "horarios": {
                 "13:40": "ESTUDOS ADS"
             },
-            "total_alocacoes": 1,
+            "total_alocacoes": 2,
             "total_salas": 4
         },
         "147": {
@@ -1148,9 +1148,12 @@
         "148": {
             "nomeArea": "Labs Informática (1 - 4)",
             "nomeSala": "Lab. 3 (40)",
-            "horarios": {},
-            "total_alocacoes": 0,
-            "total_salas": 0
+            "horarios": {
+                "07:00": "EDSGDM",
+                "13:40": "EDSGDM"
+            },
+            "total_alocacoes": 3,
+            "total_salas": 4
         },
         "149": {
             "nomeArea": "Labs Informática (1 - 4)",

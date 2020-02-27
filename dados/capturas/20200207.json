@@ -59,7 +59,7 @@
                 "18:40": "MAT239 T01 - Anete Cruz",
                 "20:20": "MAT236 T01 - Daniela Cunha"
             },
-            "total_alocacoes": 42,
+            "total_alocacoes": 43,
             "total_salas": 15
         },
         "6": {
@@ -69,7 +69,7 @@
                 "18:40": "GEO105\tT01 - Ricardo Bahia",
                 "20:20": "GEO109 - Ricardo Bahia"
             },
-            "total_alocacoes": 43,
+            "total_alocacoes": 44,
             "total_salas": 15
         },
         "7": {
@@ -79,7 +79,7 @@
                 "20:20": "GEO118 T01 - Nilton Santana",
                 "21:10": "8842 - OPU - Márcia Queiroz"
             },
-            "total_alocacoes": 55,
+            "total_alocacoes": 56,
             "total_salas": 15
         },
         "8": {
@@ -88,7 +88,7 @@
             "horarios": {
                 "18:40": "GEO140 T01 - Nilton Santana"
             },
-            "total_alocacoes": 30,
+            "total_alocacoes": 31,
             "total_salas": 15
         },
         "9": {
@@ -101,7 +101,7 @@
                 "17:50": "6842 - Filosofia - Saulo Assis",
                 "18:40": "13752 - Inglês - Antônia Socorro"
             },
-            "total_alocacoes": 31,
+            "total_alocacoes": 32,
             "total_salas": 15
         },
         "10": {
@@ -112,7 +112,7 @@
                 "18:40": "6842 - Geografia - Sandra Freitas",
                 "20:20": "6842 - Eletrônica - Thales Faria"
             },
-            "total_alocacoes": 45,
+            "total_alocacoes": 46,
             "total_salas": 15
         },
         "11": {
@@ -125,7 +125,7 @@
                 "18:40": "13772 - ONQ EMPREND - Carlos Alberto",
                 "20:20": "5841 - Geografia - Ana Paula Anunciação"
             },
-            "total_alocacoes": 46,
+            "total_alocacoes": 47,
             "total_salas": 15
         },
         "12": {
@@ -140,7 +140,7 @@
                 "18:40": "13762 - SMS - Mara Souza",
                 "20:20": "3932 - SMS - Mara Souza"
             },
-            "total_alocacoes": 47,
+            "total_alocacoes": 48,
             "total_salas": 15
         },
         "13": {
@@ -151,7 +151,7 @@
                 "18:40": "6841 - Biologia - Jeferson Coutinho",
                 "20:20": "6841 - Geografia - Clebson Costa"
             },
-            "total_alocacoes": 48,
+            "total_alocacoes": 49,
             "total_salas": 15
         },
         "14": {
@@ -164,7 +164,7 @@
                 "18:40": "ENG416 T01 - Fabiano Campos",
                 "20:20": "ENG514 T01 - Luis Filipe"
             },
-            "total_alocacoes": 49,
+            "total_alocacoes": 50,
             "total_salas": 15
         },
         "15": {
@@ -174,7 +174,7 @@
                 "18:40": "3932 - Inglês - Marcos Fernando",
                 "20:20": "MAT217 T03 - Paulo Espinheira"
             },
-            "total_alocacoes": 50,
+            "total_alocacoes": 51,
             "total_salas": 15
         },
         "16": {
@@ -183,10 +183,11 @@
             "horarios": {
                 "07:00": "10841 - Artes - Guiomar Fontes",
                 "08:40": "10841 - SMS - Samara Andrade",
+                "12:50": "Profº George - Física",
                 "18:40": "2912 - Matemática - Norma Oliveira",
                 "20:20": "ENG501\tT01 - Maria Aparecida"
             },
-            "total_alocacoes": 51,
+            "total_alocacoes": 52,
             "total_salas": 15
         },
         "17": {
@@ -200,7 +201,7 @@
                 "18:40": "3912 - G. Hotelaria I - Chelly",
                 "20:20": "2932 - Eletrônica - Letícia Lessa"
             },
-            "total_alocacoes": 52,
+            "total_alocacoes": 53,
             "total_salas": 15
         },
         "18": {
@@ -212,7 +213,7 @@
                 "18:40": "9841 - AEC - Carlos Anibal",
                 "20:20": "9841 - ONQ - Josafá Coelho"
             },
-            "total_alocacoes": 53,
+            "total_alocacoes": 54,
             "total_salas": 15
         },
         "19": {
@@ -224,7 +225,7 @@
                 "18:40": "ADM509 T01 - Patricia Seixas",
                 "20:20": "8842 - COR - Márcia Queiroz"
             },
-            "total_alocacoes": 54,
+            "total_alocacoes": 55,
             "total_salas": 15
         },
         "20": {
@@ -819,7 +820,7 @@
                 "18:40": "LET116 T01 - Itamaray Nascimento",
                 "20:20": "ENG422 T01 - Emerson Valci"
             },
-            "total_alocacoes": 29,
+            "total_alocacoes": 31,
             "total_salas": 8
         },
         "74": {
@@ -831,7 +832,7 @@
                 "18:40": "QUI541 T01 - Ana Luisa Carvalho",
                 "20:20": "ENG465 T01 - Maria das Graças"
             },
-            "total_alocacoes": 30,
+            "total_alocacoes": 32,
             "total_salas": 8
         },
         "75": {
@@ -846,19 +847,21 @@
                 "18:40": "FIS216 T01 - Eliana Alcantara",
                 "20:20": "GEO121\tT01 - Hingryd Freitas"
             },
-            "total_alocacoes": 31,
+            "total_alocacoes": 33,
             "total_salas": 8
         },
         "76": {
             "nomeArea": "Bloco K (Biblioteca)",
             "nomeSala": "K-111 (20)",
             "horarios": {
+                "08:40": "Prof. Vitor Rios - Turma 9822",
+                "10:20": "Prof. Vitor Rios - Turma 8822",
                 "13:40": "Atendimento Geral - Monitoria de Matemática - Chel",
                 "15:20": "Atendimento Geral - Monitoria de Matemática - Delis",
                 "18:40": "GEO124 T01 - Ubiraci Carlucio",
                 "20:20": "GEO123 T01 - Ubiraci Carlucio"
             },
-            "total_alocacoes": 32,
+            "total_alocacoes": 34,
             "total_salas": 8
         },
         "77": {
@@ -870,7 +873,7 @@
                 "18:40": "GEO131 T01 - Severiano Joseh",
                 "20:20": "QUI520 T01 - Aldemiro Palma"
             },
-            "total_alocacoes": 33,
+            "total_alocacoes": 35,
             "total_salas": 8
         },
         "78": {
@@ -880,7 +883,7 @@
                 "15:20": "Monitoria de Álgebra Linear - Felipe Menezes",
                 "18:40": "GEO111 T01 -  Hingryd Freitas"
             },
-            "total_alocacoes": 27,
+            "total_alocacoes": 29,
             "total_salas": 8
         },
         "79": {
@@ -891,7 +894,7 @@
                 "15:20": "Monitoria de Cálculo II - Fabrine Carvalho",
                 "18:40": "ENG453 T01 - Emerson Valci"
             },
-            "total_alocacoes": 28,
+            "total_alocacoes": 30,
             "total_salas": 8
         },
         "80": {

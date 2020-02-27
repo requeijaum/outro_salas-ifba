@@ -167,7 +167,7 @@
             "horarios": {
                 "08:40": "13742 - Topografia - Raimundo César"
             },
-            "total_alocacoes": 5,
+            "total_alocacoes": 6,
             "total_salas": 21
         },
         "21": {
@@ -177,7 +177,7 @@
                 "07:00": "13742 - Mat Constr - Silvio Santos",
                 "08:40": "13752 - Mecânica Solos - Silvio Raimundo"
             },
-            "total_alocacoes": 6,
+            "total_alocacoes": 7,
             "total_salas": 21
         },
         "22": {
@@ -201,7 +201,7 @@
                 "07:00": "13732 - Geografia - Zenildes Protázio",
                 "08:40": "13732 - Física - Rafael Nascimento"
             },
-            "total_alocacoes": 7,
+            "total_alocacoes": 8,
             "total_salas": 21
         },
         "25": {
@@ -211,7 +211,7 @@
                 "08:40": "ENG426 T01 - Juarez da Silva",
                 "10:20": "2922 - ONQ - Fábio Rosseti"
             },
-            "total_alocacoes": 11,
+            "total_alocacoes": 12,
             "total_salas": 21
         },
         "26": {
@@ -220,7 +220,7 @@
             "horarios": {
                 "10:20": "ENG448 - Leonardo Notz"
             },
-            "total_alocacoes": 12,
+            "total_alocacoes": 13,
             "total_salas": 21
         },
         "27": {
@@ -230,7 +230,7 @@
                 "07:00": "ENG407 T01 - Josélia Cavalcante",
                 "08:40": "2922 - Eletrotécnica II - Rafael Santana"
             },
-            "total_alocacoes": 9,
+            "total_alocacoes": 10,
             "total_salas": 21
         },
         "28": {
@@ -239,7 +239,7 @@
             "horarios": {
                 "08:40": "ENG406\tT01 - Alessandra Picanço"
             },
-            "total_alocacoes": 10,
+            "total_alocacoes": 11,
             "total_salas": 21
         },
         "29": {
@@ -268,9 +268,11 @@
         "32": {
             "nomeArea": "Bloco D (Antigo Pav 2)",
             "nomeSala": "D-112(S 09) (40)",
-            "horarios": {},
-            "total_alocacoes": 0,
-            "total_salas": 0
+            "horarios": {
+                "07:00": "Profª Júlia Rodrigues - ONQ"
+            },
+            "total_alocacoes": 5,
+            "total_salas": 21
         },
         "33": {
             "nomeArea": "Bloco D (Antigo Pav 2)",
@@ -1137,7 +1139,7 @@
             "horarios": {
                 "13:40": "ESTUDOS ADS"
             },
-            "total_alocacoes": 1,
+            "total_alocacoes": 3,
             "total_salas": 4
         },
         "147": {
@@ -1150,16 +1152,21 @@
         "148": {
             "nomeArea": "Labs Informática (1 - 4)",
             "nomeSala": "Lab. 3 (40)",
-            "horarios": {},
-            "total_alocacoes": 0,
-            "total_salas": 0
+            "horarios": {
+                "07:00": "EDSGDM",
+                "13:40": "EDSGDM"
+            },
+            "total_alocacoes": 4,
+            "total_salas": 4
         },
         "149": {
             "nomeArea": "Labs Informática (1 - 4)",
             "nomeSala": "Lab. 4 (40)",
-            "horarios": {},
-            "total_alocacoes": 0,
-            "total_salas": 0
+            "horarios": {
+                "07:00": "INF029 - Renato Novais"
+            },
+            "total_alocacoes": 2,
+            "total_salas": 4
         },
         "150": {
             "nomeArea": "Labs Química",

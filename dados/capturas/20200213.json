@@ -38,10 +38,11 @@
             "nomeArea": "Bloco A (Prédio Adm.)",
             "nomeSala": "A-308 (40)",
             "horarios": {
+                "08:40": "Sonia brito",
                 "18:40": "ADM516 T01 - Érica Marques",
                 "20:20": "ADM515 T01 - Érica Marques"
             },
-            "total_alocacoes": 2,
+            "total_alocacoes": 3,
             "total_salas": 4
         },
         "4": {
@@ -59,7 +60,7 @@
                 "18:40": "MAT229 T01 - Fernando Carneiro",
                 "20:20": "MAT236 T01 - Daniela Cunha"
             },
-            "total_alocacoes": 47,
+            "total_alocacoes": 54,
             "total_salas": 15
         },
         "6": {
@@ -69,7 +70,7 @@
                 "18:40": "TCC - Geografia",
                 "20:20": "GEO119 - Plínio Falcão"
             },
-            "total_alocacoes": 48,
+            "total_alocacoes": 55,
             "total_salas": 15
         },
         "7": {
@@ -78,7 +79,7 @@
             "horarios": {
                 "18:40": "GEO103 T01 - Plínio Falcão"
             },
-            "total_alocacoes": 36,
+            "total_alocacoes": 43,
             "total_salas": 15
         },
         "8": {
@@ -87,7 +88,7 @@
             "horarios": {
                 "20:20": "3912 - Inglês I - Marcos Fernando"
             },
-            "total_alocacoes": 49,
+            "total_alocacoes": 56,
             "total_salas": 15
         },
         "9": {
@@ -96,13 +97,14 @@
             "horarios": {
                 "08:40": "8823 - Inglês (G2) - Maria Cristina",
                 "10:20": "8821 - Inglês (G2) - Maria Cristina",
+                "11:10": "1813 - Efic. Energética - Ubiratan Félix",
                 "15:20": "LET122 T01 - Marcos Carvalho",
                 "16:10": "6831 - Física - Eliana Alcântara",
                 "17:00": "DE",
                 "18:40": "LET102 T01 - Antônia Chaves",
                 "20:20": "ENG418/ENG471- T01 - Lissandro Viena"
             },
-            "total_alocacoes": 50,
+            "total_alocacoes": 57,
             "total_salas": 15
         },
         "10": {
@@ -111,12 +113,13 @@
             "horarios": {
                 "08:40": "8823 - Inglês (G1) - Maurício Neto",
                 "10:20": "8821 - Inglês (G1) - Maurício Neto",
-                "11:10": "1813 - Efic. Energética - Ubiratan Félix",
+                "11:10": "10841 - Sociologia - Wagner Vinhas",
+                "12:50": "Profº José Gomes - Português",
                 "17:00": "6831 - Inglês - Breno Oliveira",
                 "18:40": "6842 - SMS - Armando Tanimoto",
                 "20:20": "ENG508 T01 - Laio Damasceno"
             },
-            "total_alocacoes": 51,
+            "total_alocacoes": 58,
             "total_salas": 15
         },
         "11": {
@@ -124,13 +127,13 @@
             "nomeSala": "B-107(S 02) (35)",
             "horarios": {
                 "10:20": "8832 - Biologia - Antheogenes Silva",
-                "11:10": "10841 - Sociologia - Wagner Vinhas",
+                "13:40": "2831 - Matemática - Cleide Brasil",
                 "15:20": "2831 - Inglês (G1) - Breno Oliveira",
                 "17:00": "2831 - Química - Jainara Nascimento",
                 "18:40": "3932 - SMS - Mara Clécia",
                 "20:20": "ADM518 T01 - Antonio Clodoaldo"
             },
-            "total_alocacoes": 52,
+            "total_alocacoes": 59,
             "total_salas": 15
         },
         "12": {
@@ -138,48 +141,54 @@
             "nomeSala": "B-108(S 03) (35)",
             "horarios": {
                 "10:20": "2831 - Sociologia - Vanessa Mutti",
-                "13:40": "2831 - Matemática - Cleide Brasil",
+                "11:10": "6812 - Filosofia - Jeudy Aragão",
                 "15:20": "2831 - Inglês (G2) - Fábio Magarão",
                 "17:00": "RAD218 T01 - Jacqueline Gurjão",
                 "18:40": "ADM513\tT01 - Luana Farias",
                 "20:20": "ADM514 T01 - Luana Farias"
             },
-            "total_alocacoes": 53,
+            "total_alocacoes": 60,
             "total_salas": 15
         },
         "13": {
             "nomeArea": "Bloco B (Antigo Pav 1)",
             "nomeSala": "B-109(S 04) (35)",
             "horarios": {
-                "11:10": "6812 - Filosofia - Jeudy Aragão",
-                "18:40": "2842 - PROJ. ELET. - Francismari Noronha"
+                "07:50": "Profª Vitória Soares - Química Analítica",
+                "08:40": "6811 - Química - Hugo Oliveira",
+                "10:20": "Profª Jainara - Química",
+                "12:50": "T: 8814 profº Walter - química",
+                "13:40": "T:8831  profª Mônica Cunha - química",
+                "15:20": "6831 - Matemática - Ives Lima",
+                "18:40": "2842 - PROJ. ELET. - Francismari Noronha",
+                "20:20": "Professora Mariana"
             },
-            "total_alocacoes": 41,
+            "total_alocacoes": 61,
             "total_salas": 15
         },
         "14": {
             "nomeArea": "Bloco B (Antigo Pav 1)",
             "nomeSala": "B-110(S 05) (50)",
             "horarios": {
-                "08:40": "6811 - Química - Hugo Oliveira",
                 "10:20": "6811 - Física - Igor Leonardo",
-                "15:20": "6831 - Matemática - Ives Lima",
                 "17:00": "6842 - Biologia - Mariana Bispo",
                 "18:40": "3912 - Português - José Roberto",
                 "20:20": "MAT223  T01 - Reinaldo Lima"
             },
-            "total_alocacoes": 54,
+            "total_alocacoes": 62,
             "total_salas": 15
         },
         "15": {
             "nomeArea": "Bloco B (Antigo Pav 1)",
             "nomeSala": "B-205(S 06) (45)",
             "horarios": {
+                "08:40": "10841 - Biologia - Taiara Aguiar",
                 "10:20": "1813 - Sociologia - Wagner Vinhas",
+                "12:50": "Profº Alessandro Barros - Física",
                 "18:40": "HUM102 T01 - Samir Perez",
                 "20:20": "Reserva - 8841 - Prova"
             },
-            "total_alocacoes": 55,
+            "total_alocacoes": 63,
             "total_salas": 15
         },
         "16": {
@@ -187,23 +196,24 @@
             "nomeSala": "B-206(S 07) (30)",
             "horarios": {
                 "07:00": "10841 - História - Vera Nathália",
-                "08:40": "10841 - Biologia - Taiara Aguiar",
                 "10:20": "10841 - Filosofia - Saulo Assis",
                 "17:00": "HUM102 T02 - Samir Perez",
                 "18:40": "HUM103 T02 - Biagio Avena",
                 "20:20": "6912 - Português - Alex Batista"
             },
-            "total_alocacoes": 56,
+            "total_alocacoes": 64,
             "total_salas": 15
         },
         "17": {
             "nomeArea": "Bloco B (Antigo Pav 1)",
             "nomeSala": "B-207(S 08) (35)",
             "horarios": {
+                "08:40": "6812 - Física - Gilmar Melo",
+                "12:50": "Profº Lucas - Química",
                 "18:40": "MAT250 T01 - Daniela Cunha",
                 "20:20": "LET111 T01 - Wallace Matos"
             },
-            "total_alocacoes": 57,
+            "total_alocacoes": 65,
             "total_salas": 15
         },
         "18": {
@@ -211,13 +221,12 @@
             "nomeSala": "B-208(S 09) (50)",
             "horarios": {
                 "07:00": "6812 - Português - Nívia Maria",
-                "08:40": "6812 - Física - Gilmar Melo",
                 "10:20": "6812 - Sociologia - Alberto Neto",
                 "17:00": "ADM500 / ADM520 - T02 - Fabio Rossetti",
                 "18:40": "MAT232 T01 - Acélio Rodrigues",
                 "20:20": "ADM504 T01 - André Souza"
             },
-            "total_alocacoes": 58,
+            "total_alocacoes": 66,
             "total_salas": 15
         },
         "19": {
@@ -226,7 +235,7 @@
             "horarios": {
                 "17:00": "2842 - Biologia - Antheogenes Silva"
             },
-            "total_alocacoes": 33,
+            "total_alocacoes": 40,
             "total_salas": 15
         },
         "20": {
@@ -237,7 +246,7 @@
                 "15:20": "1841 - Mecânica Solos - Silvio Raimundo",
                 "18:40": "13772 - Proj. O. Saneamento - Raimundo Cruz"
             },
-            "total_alocacoes": 74,
+            "total_alocacoes": 76,
             "total_salas": 21
         },
         "21": {
@@ -247,7 +256,7 @@
                 "18:40": "13762 - SSAMB/SAA - Vírginia Neves",
                 "20:20": "13742 - Mec Solos - Jenner Carvalho"
             },
-            "total_alocacoes": 89,
+            "total_alocacoes": 91,
             "total_salas": 21
         },
         "22": {
@@ -266,7 +275,7 @@
                 "17:00": "1842 - Geografia - Monise Pereira",
                 "20:20": "FIS211 T02 - Ebenezer Cavalcanti"
             },
-            "total_alocacoes": 90,
+            "total_alocacoes": 92,
             "total_salas": 21
         },
         "24": {
@@ -284,7 +293,7 @@
                 "18:40": "6912 - Inglês - Fábio Magarão",
                 "20:20": "EDU162 T01 - Tereza Cristina"
             },
-            "total_alocacoes": 91,
+            "total_alocacoes": 93,
             "total_salas": 21
         },
         "25": {
@@ -301,7 +310,7 @@
                 "18:40": "13712 - Português - Wallace Matos",
                 "20:20": "LET100 T03 - José Gomes"
             },
-            "total_alocacoes": 92,
+            "total_alocacoes": 94,
             "total_salas": 21
         },
         "26": {
@@ -317,7 +326,7 @@
                 "18:40": "8841 - UTIL - Carlos Suffredini",
                 "20:20": "EDU156 T02 - Cristiane Almeida"
             },
-            "total_alocacoes": 93,
+            "total_alocacoes": 95,
             "total_salas": 21
         },
         "27": {
@@ -325,13 +334,14 @@
             "nomeSala": "D-107(S 04) (40)",
             "horarios": {
                 "07:00": "8811 - Português - Érika Fonseca",
+                "10:20": "Profa Cleide Brasil - 1831",
                 "13:40": "1811 - Filosofia - Daila Ataide",
                 "15:20": "1841 - Espanhol (G2) - Itamaray Santos",
                 "17:00": "11841 - SMS - Samara Andrade",
                 "18:40": "GEO100 T01 - Andre Nunes",
                 "20:20": "8842 - UTIL - Carlos Suffredini"
             },
-            "total_alocacoes": 94,
+            "total_alocacoes": 96,
             "total_salas": 21
         },
         "28": {
@@ -347,7 +357,7 @@
                 "18:40": "EDU156 T01 - Cristiane Almeida",
                 "20:20": "5912 - Inglês - Luzia Helena"
             },
-            "total_alocacoes": 95,
+            "total_alocacoes": 97,
             "total_salas": 21
         },
         "29": {
@@ -356,12 +366,13 @@
             "horarios": {
                 "07:00": "5811 - Matemática - Ciro Santana",
                 "10:20": "8811 - História - Virlene Moreira",
+                "14:30": "1832 - Matemática - Cleide",
                 "15:20": "1822 - Geografia - Severiano Joseh",
                 "17:00": "GEO115 T01 - Aline Araújo",
                 "18:40": "8842 - Geografia - Monise Pereira",
                 "20:20": "13712 - R. Interpessoais - Samir Mortada"
             },
-            "total_alocacoes": 96,
+            "total_alocacoes": 98,
             "total_salas": 21
         },
         "30": {
@@ -370,13 +381,12 @@
             "horarios": {
                 "08:40": "9813 - Português - Rodrigo Dultra",
                 "10:20": "9813 - Física - Marcus Fernandes",
-                "14:30": "1832 - Matemática - Cleide",
                 "15:20": "9831 - Filosofia - Daila Ataide",
                 "17:00": "1822 - Física - José Claudio",
                 "18:40": "5912 - Matemática - Patrícia Fernandes",
                 "20:20": "ADM532 T01 - Claudio Mello"
             },
-            "total_alocacoes": 97,
+            "total_alocacoes": 99,
             "total_salas": 21
         },
         "31": {
@@ -391,7 +401,7 @@
                 "18:40": "HUM152 T01 - Moema Soares",
                 "20:20": "MAT224 T01 - Isabel Leite"
             },
-            "total_alocacoes": 98,
+            "total_alocacoes": 100,
             "total_salas": 21
         },
         "32": {
@@ -407,18 +417,20 @@
                 "18:40": "MAT205 T01 - Walter Porto",
                 "20:20": "EDU157 T02 - Roberto Melo"
             },
-            "total_alocacoes": 99,
+            "total_alocacoes": 101,
             "total_salas": 21
         },
         "33": {
             "nomeArea": "Bloco D (Antigo Pav 2)",
             "nomeSala": "D-201(S 10) (60)",
             "horarios": {
+                "12:50": "T: 6821,11822 profª Aline - química",
+                "13:40": "1832 - Física - Rafael Nascimento",
                 "15:20": "1813 - Desenho (G1) - Alfredo Nascimento",
                 "17:00": "1832 - Sociologia - Naiaranize Pinheiro",
                 "18:40": "EDU150 T02 - Roberto Melo"
             },
-            "total_alocacoes": 85,
+            "total_alocacoes": 87,
             "total_salas": 21
         },
         "34": {
@@ -427,11 +439,10 @@
             "horarios": {
                 "07:00": "6822 - Química - Denise de Sá",
                 "10:20": "9831 - Eletrônica Digital (T) - Mário Sérgio",
-                "13:40": "1832 - Física - Rafael Nascimento",
                 "17:00": "1813 - Desenho (G2) - Alfredo Nascimento",
                 "18:40": "ENG407 T01 - Josélia Cavalcante"
             },
-            "total_alocacoes": 86,
+            "total_alocacoes": 88,
             "total_salas": 21
         },
         "35": {
@@ -441,7 +452,7 @@
                 "08:40": "2813 - Desenho (G1) - Ana Paula Cordeiro",
                 "10:20": "2813 - Desenho (G2) - Ana Paula Cordeiro"
             },
-            "total_alocacoes": 33,
+            "total_alocacoes": 34,
             "total_salas": 21
         },
         "36": {
@@ -452,7 +463,7 @@
                 "08:40": "5812 - Desenho (G2) - Solange Moura",
                 "15:20": "11821 - Desenho Técnico (G2) - Catarina Damasceno"
             },
-            "total_alocacoes": 59,
+            "total_alocacoes": 61,
             "total_salas": 21
         },
         "37": {
@@ -461,9 +472,10 @@
             "horarios": {
                 "08:40": "10811 - Desenho (G1) - Gustavo Leal",
                 "10:20": "10811 - Desenho (G2) - Gustavo Leal",
+                "13:40": "11821 - Desenho Técnico (G1) - Catarina Damasceno",
                 "18:40": "2912 - Desenho Tec (G1) - Maria Estela Smolka"
             },
-            "total_alocacoes": 87,
+            "total_alocacoes": 89,
             "total_salas": 21
         },
         "38": {
@@ -472,11 +484,10 @@
             "horarios": {
                 "07:00": "8813 - Desenho (G2) - Bruno Miranda",
                 "08:40": "8813 - Desenho (G1) - Bruno Miranda",
-                "13:40": "11821 - Desenho Técnico (G1) - Catarina Damasceno",
                 "17:00": "DES202 T01 - Francisco Reis",
                 "18:40": "11841 - Desenho - Catarina Damasceno"
             },
-            "total_alocacoes": 88,
+            "total_alocacoes": 90,
             "total_salas": 21
         },
         "39": {
@@ -1173,9 +1184,10 @@
             "nomeSala": "O-120 ITCP (30)",
             "horarios": {
                 "17:00": "ADM530 T01 - Ronaldo Bruno",
-                "18:40": "ADM533 T01 - Ronaldo Bruno"
+                "18:40": "ADM533 T01 - Ronaldo Bruno",
+                "20:20": "ProfEPT"
             },
-            "total_alocacoes": 69,
+            "total_alocacoes": 84,
             "total_salas": 18
         },
         "103": {
@@ -1189,7 +1201,7 @@
                 "18:40": "MAT224 T02 - Edmary Barreto",
                 "20:20": "INF026 P01 - Antônio Carlos"
             },
-            "total_alocacoes": 84,
+            "total_alocacoes": 85,
             "total_salas": 18
         },
         "104": {
@@ -1204,7 +1216,7 @@
                 "18:40": "ENG560 T01 - Luiz Antônio",
                 "20:20": "RAD220 P01 - Luciana Oliveira"
             },
-            "total_alocacoes": 85,
+            "total_alocacoes": 86,
             "total_salas": 18
         },
         "105": {
@@ -1219,7 +1231,7 @@
                 "18:40": "13752 - Filosofia - Maria Lucileide",
                 "20:20": "MAT218 T01 - Paulo Espinheira"
             },
-            "total_alocacoes": 86,
+            "total_alocacoes": 87,
             "total_salas": 18
         },
         "106": {
@@ -1235,7 +1247,7 @@
                 "18:40": "LET130 T01 - Wesley Correia",
                 "20:20": "3932 - Socio/Trab - Fábio Baldaia"
             },
-            "total_alocacoes": 87,
+            "total_alocacoes": 88,
             "total_salas": 18
         },
         "107": {
@@ -1249,7 +1261,7 @@
                 "18:40": "RAD235 T01 - Isabelle Pinheiro",
                 "20:20": "EDU158 T02 - Naiaranize Pinheiro"
             },
-            "total_alocacoes": 88,
+            "total_alocacoes": 89,
             "total_salas": 18
         },
         "108": {
@@ -1263,7 +1275,7 @@
                 "18:40": "EDU158 T01 - Leonardo Rangel",
                 "20:20": "MAT225 T01 - Luis Vasquez"
             },
-            "total_alocacoes": 89,
+            "total_alocacoes": 90,
             "total_salas": 18
         },
         "109": {

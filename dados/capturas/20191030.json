@@ -842,7 +842,7 @@
                 "18:40": "ENG420 T01 - Fabrício Gerônimo",
                 "20:20": "QUI541 T01 - Ana Luisa Carvalho"
             },
-            "total_alocacoes": 25,
+            "total_alocacoes": 24,
             "total_salas": 8
         },
         "74": {
@@ -854,7 +854,7 @@
                 "16:10": "Reunião Programas Universais",
                 "20:20": "INF023 T02 - Romilson Sampaio"
             },
-            "total_alocacoes": 26,
+            "total_alocacoes": 25,
             "total_salas": 8
         },
         "75": {
@@ -867,7 +867,7 @@
                 "18:40": "3922 - História - Lais Viena",
                 "20:20": "FIS212 T01 - Ronaldo Naziazeno"
             },
-            "total_alocacoes": 27,
+            "total_alocacoes": 26,
             "total_salas": 8
         },
         "76": {
@@ -880,7 +880,7 @@
                 "18:40": "13722 - Português - A definir",
                 "20:20": "ENG426 T01 - Juarez da Silva"
             },
-            "total_alocacoes": 28,
+            "total_alocacoes": 27,
             "total_salas": 8
         },
         "77": {
@@ -893,27 +893,25 @@
                 "18:40": "FIS212 T02 - Ronaldo Naziazeno",
                 "20:20": "5912 - Informática - Luiz Machado"
             },
-            "total_alocacoes": 29,
+            "total_alocacoes": 28,
             "total_salas": 8
         },
         "78": {
             "nomeArea": "Bloco K (Biblioteca)",
             "nomeSala": "K-114 (10)",
             "horarios": {
-                "18:40": "13732 - Português - Wesley Correia",
-                "20:20": "ENG520 T02 - Edler Lins"
+                "18:40": "13732 - Português - Wesley Correia"
             },
-            "total_alocacoes": 30,
+            "total_alocacoes": 23,
             "total_salas": 8
         },
         "79": {
             "nomeArea": "Bloco K (Biblioteca)",
             "nomeSala": "K-115 (20)",
             "horarios": {
-                "08:40": "Monitoria de Português - Brenda Rosário",
-                "18:40": "ENG524 T01 - Edler Lins"
+                "08:40": "Monitoria de Português - Brenda Rosário"
             },
-            "total_alocacoes": 24,
+            "total_alocacoes": 4,
             "total_salas": 8
         },
         "80": {
@@ -940,7 +938,7 @@
                 "18:40": "9912 - Inglês - Luzia Helena",
                 "20:20": "LET115 T01 - Luzia Helena"
             },
-            "total_alocacoes": 36,
+            "total_alocacoes": 37,
             "total_salas": 11
         },
         "83": {
@@ -954,7 +952,7 @@
                 "18:40": "2912 - Inglês Tec. - Antônia Socorro",
                 "20:20": "3922 - Espanhol - Itamaray Nascimento"
             },
-            "total_alocacoes": 37,
+            "total_alocacoes": 38,
             "total_salas": 11
         },
         "84": {
@@ -970,9 +968,11 @@
             "nomeArea": "Bloco L (Metalurgia)",
             "nomeSala": "L-010 LAB ENG. QUÍMICA (20)",
             "horarios": {
-                "16:10": "Semana Nacional de Ciência e Tecnologia"
+                "16:10": "Semana Nacional de Ciência e Tecnologia",
+                "18:40": "ENG524 T01 - Edler Lins",
+                "20:20": "ENG520 T02 - Edler Lins"
             },
-            "total_alocacoes": 24,
+            "total_alocacoes": 39,
             "total_salas": 11
         },
         "86": {
@@ -986,7 +986,7 @@
                 "17:00": "MAT217 T02 - Reinaldo Lima",
                 "18:40": "EDU154 T01 - Mauricio Uzêda"
             },
-            "total_alocacoes": 31,
+            "total_alocacoes": 32,
             "total_salas": 11
         },
         "87": {
@@ -1000,7 +1000,7 @@
                 "18:40": "MAT222 T01 - Márcia Guariente",
                 "20:20": "MAT217 T01 - Paulo Espinheira"
             },
-            "total_alocacoes": 38,
+            "total_alocacoes": 40,
             "total_salas": 11
         },
         "88": {
@@ -1014,7 +1014,7 @@
                 "17:00": "MAT217 T03 - Paulo Espinheira",
                 "18:40": "INF012 P01 - Manoel Neto"
             },
-            "total_alocacoes": 33,
+            "total_alocacoes": 34,
             "total_salas": 11
         },
         "89": {
@@ -1024,7 +1024,7 @@
                 "08:40": "9811 (G2) - Informática - André Ferreira",
                 "18:40": "ENG465 T01 - Maria das Graças"
             },
-            "total_alocacoes": 34,
+            "total_alocacoes": 35,
             "total_salas": 11
         },
         "90": {
@@ -1037,7 +1037,7 @@
                 "18:40": "ENG510 T01 - Ana Luisa",
                 "20:20": "EDU170 T01 - Bionor Rebouças"
             },
-            "total_alocacoes": 39,
+            "total_alocacoes": 41,
             "total_salas": 11
         },
         "91": {
@@ -1221,7 +1221,6 @@
             "horarios": {
                 "07:00": "2822 - Português - José Gomes",
                 "08:40": "2822 - Matemática - Fernanda Silva",
-                "10:20": "2822 - Física - Paulo Vicente",
                 "13:40": "9832 - Sociologia - Wagner Vinhas",
                 "15:20": "9832 - Geografia - Joilson Cruz",
                 "18:40": "5842 - ED - Letícia Lessa",
@@ -1236,6 +1235,7 @@
             "horarios": {
                 "07:00": "2821 - Matemática - Cleidiane Brito",
                 "08:40": "2821 - Português - Rodrigo Dultra",
+                "10:20": "2822 - Física - Paulo Vicente",
                 "17:00": "5842 - Geografia - Elaynne França",
                 "18:40": "MAT214 T01 / MAT226 T01 - Ives Lima",
                 "20:20": "MAT224 T03 - Ives Lima"

@@ -91,7 +91,7 @@
             "horarios": {
                 "09:30": "2912 - Física - Marcos Estevam"
             },
-            "total_alocacoes": 3,
+            "total_alocacoes": 4,
             "total_salas": 15
         },
         "11": {
@@ -127,9 +127,11 @@
         "15": {
             "nomeArea": "Bloco B (Antigo Pav 1)",
             "nomeSala": "B-205(S 06) (45)",
-            "horarios": {},
-            "total_alocacoes": 0,
-            "total_salas": 0
+            "horarios": {
+                "08:40": "Profª Júlia Rodrigues - ONQ"
+            },
+            "total_alocacoes": 3,
+            "total_salas": 15
         },
         "16": {
             "nomeArea": "Bloco B (Antigo Pav 1)",
@@ -1135,7 +1137,7 @@
             "horarios": {
                 "13:40": "ESTUDOS ADS"
             },
-            "total_alocacoes": 1,
+            "total_alocacoes": 2,
             "total_salas": 4
         },
         "147": {
@@ -1148,9 +1150,12 @@
         "148": {
             "nomeArea": "Labs Informática (1 - 4)",
             "nomeSala": "Lab. 3 (40)",
-            "horarios": {},
-            "total_alocacoes": 0,
-            "total_salas": 0
+            "horarios": {
+                "07:00": "EDSGDM",
+                "13:40": "EDSGDM"
+            },
+            "total_alocacoes": 3,
+            "total_salas": 4
         },
         "149": {
             "nomeArea": "Labs Informática (1 - 4)",

@@ -37,9 +37,11 @@
         "3": {
             "nomeArea": "Bloco A (Prédio Adm.)",
             "nomeSala": "A-308 (40)",
-            "horarios": {},
-            "total_alocacoes": 0,
-            "total_salas": 0
+            "horarios": {
+                "07:00": "Turma 1 - CIIF"
+            },
+            "total_alocacoes": 1,
+            "total_salas": 4
         },
         "4": {
             "nomeArea": "Bloco A (Prédio Adm.)",
@@ -107,9 +109,11 @@
         "13": {
             "nomeArea": "Bloco B (Antigo Pav 1)",
             "nomeSala": "B-109(S 04) (35)",
-            "horarios": {},
-            "total_alocacoes": 0,
-            "total_salas": 0
+            "horarios": {
+                "07:00": "Turma 4 - CIIF"
+            },
+            "total_alocacoes": 1,
+            "total_salas": 15
         },
         "14": {
             "nomeArea": "Bloco B (Antigo Pav 1)",
@@ -121,9 +125,11 @@
         "15": {
             "nomeArea": "Bloco B (Antigo Pav 1)",
             "nomeSala": "B-205(S 06) (45)",
-            "horarios": {},
-            "total_alocacoes": 0,
-            "total_salas": 0
+            "horarios": {
+                "07:00": "Turma 5 - CIIF"
+            },
+            "total_alocacoes": 2,
+            "total_salas": 15
         },
         "16": {
             "nomeArea": "Bloco B (Antigo Pav 1)",
@@ -135,9 +141,12 @@
         "17": {
             "nomeArea": "Bloco B (Antigo Pav 1)",
             "nomeSala": "B-207(S 08) (35)",
-            "horarios": {},
-            "total_alocacoes": 0,
-            "total_salas": 0
+            "horarios": {
+                "07:00": "Turma 9 - CIIF",
+                "12:50": "Turma 13 - CIIF"
+            },
+            "total_alocacoes": 5,
+            "total_salas": 15
         },
         "18": {
             "nomeArea": "Bloco B (Antigo Pav 1)",
@@ -149,9 +158,12 @@
         "19": {
             "nomeArea": "Bloco B (Antigo Pav 1)",
             "nomeSala": "B-209(S 10) (50)",
-            "horarios": {},
-            "total_alocacoes": 0,
-            "total_salas": 0
+            "horarios": {
+                "07:00": "Turma 10 - CIIF",
+                "12:50": "Turma 14 - CIIF"
+            },
+            "total_alocacoes": 6,
+            "total_salas": 15
         },
         "20": {
             "nomeArea": "Bloco D (Antigo Pav 2)",
@@ -352,9 +364,11 @@
         "48": {
             "nomeArea": "Bloco E (Eletrotécnica)",
             "nomeSala": "E-103 - Áudio-Geografia (35)",
-            "horarios": {},
-            "total_alocacoes": 0,
-            "total_salas": 0
+            "horarios": {
+                "07:00": "Turma 12 - CIIF"
+            },
+            "total_alocacoes": 1,
+            "total_salas": 8
         },
         "49": {
             "nomeArea": "Bloco F (Física)",

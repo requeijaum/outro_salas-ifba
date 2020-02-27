@@ -1171,9 +1171,10 @@
             "nomeSala": "O-120 ITCP (30)",
             "horarios": {
                 "17:00": "ADM530 T01 - Ronaldo Bruno",
-                "18:40": "ADM533 T01 - Ronaldo Bruno"
+                "18:40": "ADM533 T01 - Ronaldo Bruno",
+                "20:20": "ProfEPT"
             },
-            "total_alocacoes": 69,
+            "total_alocacoes": 84,
             "total_salas": 18
         },
         "103": {
@@ -1187,7 +1188,7 @@
                 "18:40": "MAT224 T02 - Edmary Barreto",
                 "20:20": "INF026 P01 - Antônio Carlos"
             },
-            "total_alocacoes": 84,
+            "total_alocacoes": 85,
             "total_salas": 18
         },
         "104": {
@@ -1202,7 +1203,7 @@
                 "18:40": "ENG560 T01 - Luiz Antônio",
                 "20:20": "RAD220 P01 - Luciana Oliveira"
             },
-            "total_alocacoes": 85,
+            "total_alocacoes": 86,
             "total_salas": 18
         },
         "105": {
@@ -1217,7 +1218,7 @@
                 "18:40": "13752 - Filosofia - Maria Lucileide",
                 "20:20": "MAT218 T01 - Paulo Espinheira"
             },
-            "total_alocacoes": 86,
+            "total_alocacoes": 87,
             "total_salas": 18
         },
         "106": {
@@ -1233,7 +1234,7 @@
                 "18:40": "LET130 T01 - Wesley Correia",
                 "20:20": "3932 - Socio/Trab - Fábio Baldaia"
             },
-            "total_alocacoes": 87,
+            "total_alocacoes": 88,
             "total_salas": 18
         },
         "107": {
@@ -1247,7 +1248,7 @@
                 "18:40": "RAD235 T01 - Isabelle Pinheiro",
                 "20:20": "EDU158 T02 - Naiaranize Pinheiro"
             },
-            "total_alocacoes": 88,
+            "total_alocacoes": 89,
             "total_salas": 18
         },
         "108": {
@@ -1261,7 +1262,7 @@
                 "18:40": "EDU158 T01 - Leonardo Rangel",
                 "20:20": "MAT225 T01 - Luis Vasquez"
             },
-            "total_alocacoes": 89,
+            "total_alocacoes": 90,
             "total_salas": 18
         },
         "109": {
